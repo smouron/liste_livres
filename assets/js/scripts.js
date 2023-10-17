@@ -29,9 +29,8 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch("./assets/data/livres.json", myInit)
     .then((response) => response.json())
     .then((data) => {
-      // Faites quelque chose avec les données JSON
+      // Récupération de la liste JSON et mise dans une variable
       dataListe = data.liste;
-      console.log(dataListe);
 
       // Récupération du nombre total de livres
       nbTotalBook = dataListe.length;
@@ -81,37 +80,56 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Gestion des filtres
   (function ($) {
-    // Détection quand on agit sur le filtre AUTEUR
     $(document).ready(function () {
+      // Détection quand on click sur une image
+      $("section").click(function (e) {
+        if (e.target.className === "image1") {
+          console.log(e.target.classList);
+          e.target.classList.add("hidden");
+          console.log(e.target.nextElementSibling);
+          console.log(e.target.nextElementSibling.classList);
+          e.target.nextElementSibling.classList.remove("hidden");
+        }
+
+        // previousElementSibling
+        if (e.target.className === "image2") {
+          console.log(e.target.classList);
+          e.target.classList.add("hidden");
+          console.log(e.target.nextElementSibling);
+          console.log(e.target.nextElementSibling.classList);
+          e.target.previousElementSibling.classList.remove("hidden");
+        }       
+      });
+
+      // Détection quand on agit sur le filtre AUTEUR
       $("#select_author").change(function (e) {
-        // console.log(e);
-        // console.log(e.target);
         filterAuthor = e.target.value;
-        console.log("Auteur : " + filterAuthor + "Editeur : " + filterEditor);
+        console.log(
+          "Auteur : " + filterAuthor + " - Editeur : " + filterEditor
+        );
         functionFilterData(filterAuthor, filterEditor);
         functionFilterListe(filterAuthor, filterEditor);
       });
 
       // Détection quand on agit sur le filtre EDITEUR
       $("#select_editor").change(function (e) {
-        // console.log(e);
-        // console.log(e.target.value);
         filterEditor = e.target.value;
-        console.log("Auteur : " + filterAuthor + "Editeur : " + filterEditor);
+        console.log(
+          "Auteur : " + filterAuthor + " - Editeur : " + filterEditor
+        );
         functionFilterData(filterAuthor, filterEditor);
-        functionFilterListe(filterAuthor, filterEditor);
+        // functionFilterListe(filterAuthor, filterEditor);
       });
 
       // Function pour filtrer l'affichage
+      //
       // data1 = valeur du filtre sélectionné pour les auteurs
       // data2 = valeurs du filtre sélectionné pour les éditeurs
+      //
       function functionFilterData(data1, data2) {
-        console.log("Nombre total de livres: " + nbBook + "/" + nbTotalBook);
         console.log("data1: " + data1 + " - data2: " + data2);
         nbBook = 0;
         for (let pas = 0; pas < nbTotalBook; pas++) {
-          // console.log($(".book")[pas]);
-
           // S'il n'y a rien à filtrer on fait tout afficher
           // si non on cache avant d'appliquer les filtres
           if (data2 == "tout" && data1 == "tout") {
