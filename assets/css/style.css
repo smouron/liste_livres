@@ -73,6 +73,45 @@ h2 {
     margin-bottom: 5px;
 }
 
+.filter-area {
+  /* justify-content: space-between;  */
+  width: 80%;
+  min-width: 125px;
+  max-width: 1150px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.filter-area form {
+  flex-wrap: nowrap;
+  padding: 20px;
+}    
+  
+.filter-area #filtre_author,
+.filter-area #filtre_editor  {
+  width: 380px;
+  justify-content: center;
+} 
+
+.filter-area p,
+.filter-area option {    
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.filter-area label {    
+  font-size: 18px;
+  font-weight: 700;
+  padding: 0 5px;
+}
+
+.filter-area select {
+  height: auto;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+
+
 .book {
   width: 400px;
   height: auto;

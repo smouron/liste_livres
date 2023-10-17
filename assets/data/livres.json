@@ -13,7 +13,7 @@
 			},
 			{
 				"id": 2,
-				"main_author": " HARLAN COBEN",
+				"main_author": "HARLAN COBEN",
 				"secondary_author": "",
 				"editor": "Pocket",
 				"title": "Sans défense",
@@ -73,7 +73,7 @@
 			},
 			{
 				"id": 8,
-				"main_author": "MAXIME CHATTAN",
+				"main_author": "MAXIME CHATTAN", 
 				"secondary_author": "",
 				"editor": "Albin Michel",
 				"title": "Autre monde - T3 - Le coeur de la terre",
@@ -1067,10 +1067,10 @@
 				"main_author": "ROULETABILLE",
 				"secondary_author": "",
 				"editor": "Le livre de poche",
-				"title": "La parfun de la dame en noir",
-				"title_cover": "la_parfun_de_la_dame_en_noir",
-				"first_cover": "la_parfun_de_la_dame_en_noir_1.jpg",
-				"fourth_cover": "la_parfun_de_la_dame_en_noir_4.jpg"
+				"title": "Le parfun de la dame en noir",
+				"title_cover": "le_parfun_de_la_dame_en_noir",
+				"first_cover": "le_parfun_de_la_dame_en_noir_1.jpg",
+				"fourth_cover": "le_parfun_de_la_dame_en_noir_4.jpg"
 			},
 			{
 				"id": 108,

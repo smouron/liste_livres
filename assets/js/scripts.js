@@ -4,6 +4,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const containerList = document.querySelector("#list");
   containerList.innerHTML = "";
 
+  let filterAuthor = "";
+  let filterEditor = "";
+
   var myHeaders = new Headers();
 
   var myInit = {
@@ -43,25 +46,61 @@ document.addEventListener("DOMContentLoaded", function () {
           '" title="' +
           data.liste[pas].title +
           '">' +
-          '<h2>' +
+          "<h2>" +
           data.liste[pas].title +
-          '</h2>' +
-          '<h3>de ' +
+          "</h2>" +
+          "<h3>de " +
           data.liste[pas].main_author +
-          '</h3>' +
-          '<img src="./assets/images/'+ data.liste[pas].first_cover +'" alt="'+data.liste[pas].title +'"></img>' +
-          '<img class="hidden" src="./assets/images/'+ data.liste[pas].first_cover +'" alt="'+data.liste[pas].title +'"></img>' +
-          '<p>édition ' +
+          "</h3>" +
+          '<img src="./assets/images/' +
+          data.liste[pas].first_cover +
+          '" alt="' +
+          data.liste[pas].title +
+          '"></img>' +
+          '<img class="hidden" src="./assets/images/' +
+          data.liste[pas].first_cover +
+          '" alt="' +
+          data.liste[pas].title +
+          '"></img>' +
+          "<p>édition " +
           data.liste[pas].editor +
-          '</p>' +
-          '</div>';
+          "</p>" +
+          "</div>";
 
-        console.log(data.liste[pas]);
-        console.log(data.liste[pas].id);
-        console.log(data.liste[pas].title);
+        // console.log(data.liste[pas]);
+        // console.log(data.liste[pas].id);
+        // console.log(data.liste[pas].title);
       }
     })
     .catch((error) => {
       console.error("Une erreur s'est produite : ", error);
     });
+
+  // Gestion des filtres
+  (function ($) {
+    $(document).ready(function () {
+      $("#select_author").change(function (e) {
+        console.log(e);
+        console.log(e.target);
+        if (e.target.value === "" || e.target.value === "tout") {
+          filterAuthor = "";
+        } else {
+          filterAuthor = e.target.value;
+        }
+        console.log("Auteur : " + filterAuthor);
+      });
+
+      $("#select_editor").change(function (e) {
+        console.log(e);
+        console.log(e.target);
+        console.log(e.target.value);
+        if (e.target.value === "" || e.target.value === "tout") {
+          filterEditor = "";
+        } else {
+          filterEditor = e.target.value;
+        }
+        console.log("Editeur : " + filterEditor);
+      });
+    });
+  })(jQuery);
 });
