@@ -18,121 +18,143 @@
 </head>
 
 <body>
-    <h1>Liste des livres que je possède</h1>
-    <nav role="navigation" class="filter-area flexrow wrap center" aria-label="Filtrer l'affichage des livres">
-        <!--				
+    <header id="header" class="site-header directionRow">
+        <div id="container_header" class="container_header directionRow">
+            <div id="logo" class="logo">
+                <a href="./index.php">
+                    <img src="./assets/images/stephane_mouron.png" alt="Logo Stéphane Mouron">
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <h1>Liste des livres que je possède</h1>
+        <nav role="navigation" class="filter-area flexrow wrap center" aria-label="Filtrer l'affichage des livres">
+            <!--				
              Menu déroulant avec la liste des auteurs
          -->
-        <form action="" class="filter filter_author">
-            <label for="select_author">Auteur</label>
-            <select size="1" name="select_author" id="select_author">
-                <option value="tout" selected>Tout</option>
-                <option value="alafair burke">ALAFAIR BURKE</option>
-                <option value="anthony augusto">ANTHONY AUGUSTO</option>
-                <option value="bernard werber">BERNARD WERBER</option>
-                <option value="cedric sire">CEDRIC SIRE</option>
-                <option value="christophe martinolli">CHRISTOPHE MARTINOLLI</option>
-                <option value="claire favan">CLAIRE FAVAN</option>
-                <option value="cyril carrere">CYRIL CARRERE</option>
-                <option value="danielle thiery">DANIELLE THIERY</option>
-                <option value="erich maria remarque">ERICH MARIA REMARQUE</option>
-                <option value="fiona barton">FIONA BARTON</option>
-                <option value="franck thilliez">FRANCK THILLIEZ</option>
-                <option value="fred vargas">FRED VARGAS</option>
-                <option value="guy roger duvert">GUY ROGER DUVERT</option>
-                <option value="harlan coben">HARLAN COBEN</option>
-                <option value="henri loevenbruck">HENRI LOEVENBRUCK</option>
-                <option value="hugh howey">HUGH HOWEY</option>
-                <option value="ian manool">IAN MANOOL</option>
-                <option value="isaac asimov">ISAAC ASIMOV</option>
-                <option value="jacques expert">JACQUES EXPERT</option>
-                <option value="james dashner">JAMES DASHNER</option>
-                <option value="jean-francois nahmias">JEAN-FRANCOIS NAHMIAS</option>
-                <option value="jean-luc bizien">JEAN-LUC BIZIEN</option>
-                <option value="jean-marc epinoux">JEAN-MARC EPINOUX</option>
-                <option value="joann ross">JOANN ROSS</option>
-                <option value="karine martins">KARINE MARTINS</option>
-                <option value="laurent obertone">LAURENT OBERTONE</option>
-                <option value="marc welinksi">MARC WELINKSI</option>
-                <option value="martin">MARTIN</option>
-                <option value="mary higgins clark">MARY HIGGINS CLARK</option>
-                <option value="maxime chattan">MAXIME CHATTAN</option>
-                <option value="maxime lledo">MAXIME LLEDO</option>
-                <option value="michael byrnes">MICHAEL BYRNES</option>
-                <option value="michel bussi">MICHEL BUSSI</option>
-                <option value="morgane montoriol">MORGANE MONTORIOL</option>
-                <option value="nico augusto">NICO AUGUSTO</option>
-                <option value="nicolas beuglet">NICOLAS BEUGLET</option>
-                <option value="nicolas lebel">NICOLAS LEBEL</option>
-                <option value="niko tackiam">NIKO TACKIAM</option>
-                <option value="olivier bal">OLIVIER BAL</option>
-                <option value="olivier norek">OLIVIER NOREK</option>
-                <option value="owen king">OWEN KING</option>
-                <option value="patricia cornwell">PATRICIA CORNWELL</option>
-                <option value="pierre bellemare">PIERRE BELLEMARE</option>
-                <option value="pierre bellemare">PIERRE BELLEMARE</option>
-                <option value="rachel lee">RACHEL LEE</option>
-                <option value="rene manzor">RENE MANZOR</option>
-                <option value="richard paul evans">RICHARD PAUL EVANS</option>
-                <option value="rick yancey">RICK YANCEY</option>
-                <option value="robert markus">ROBERT MARKUS</option>
-                <option value="rouletabille">ROULETABILLE</option>
-                <option value="sarah crossan">SARAH CROSSAN</option>
-                <option value="scot sigler">SCOT SIGLER</option>
-                <option value="steinbeck">STEINBECK</option>
-                <option value="stephen king">STEPHEN KING</option>
-                <option value="stephen king">STEPHEN KING</option>
-                <option value="vercors">VERCORS</option>
-                <option value="william r. forstchen">WILLIAM R. FORSTCHEN</option>
-                <option value="zola">ZOLA</option>
-            </select>
-        </form>
-        <!--                                         
+            <form action="" class="filter filter_author">
+                <label for="select_author">Auteur</label>
+                <select size="1" name="select_author" id="select_author">
+                    <option value="tout" selected>Tout</option>
+                    <option value="alafair burke">ALAFAIR BURKE</option>
+                    <option value="anthony augusto">ANTHONY AUGUSTO</option>
+                    <option value="bernard werber">BERNARD WERBER</option>
+                    <option value="cedric sire">CEDRIC SIRE</option>
+                    <option value="christophe martinolli">CHRISTOPHE MARTINOLLI</option>
+                    <option value="claire favan">CLAIRE FAVAN</option>
+                    <option value="cyril carrere">CYRIL CARRERE</option>
+                    <option value="danielle thiery">DANIELLE THIERY</option>
+                    <option value="erich maria remarque">ERICH MARIA REMARQUE</option>
+                    <option value="fiona barton">FIONA BARTON</option>
+                    <option value="franck thilliez">FRANCK THILLIEZ</option>
+                    <option value="fred vargas">FRED VARGAS</option>
+                    <option value="guy roger duvert">GUY ROGER DUVERT</option>
+                    <option value="harlan coben">HARLAN COBEN</option>
+                    <option value="henri loevenbruck">HENRI LOEVENBRUCK</option>
+                    <option value="hugh howey">HUGH HOWEY</option>
+                    <option value="ian manool">IAN MANOOL</option>
+                    <option value="isaac asimov">ISAAC ASIMOV</option>
+                    <option value="jacques expert">JACQUES EXPERT</option>
+                    <option value="james dashner">JAMES DASHNER</option>
+                    <option value="jean-francois nahmias">JEAN-FRANCOIS NAHMIAS</option>
+                    <option value="jean-luc bizien">JEAN-LUC BIZIEN</option>
+                    <option value="jean-marc epinoux">JEAN-MARC EPINOUX</option>
+                    <option value="joann ross">JOANN ROSS</option>
+                    <option value="karine martins">KARINE MARTINS</option>
+                    <option value="laurent obertone">LAURENT OBERTONE</option>
+                    <option value="marc welinksi">MARC WELINKSI</option>
+                    <option value="martin">MARTIN</option>
+                    <option value="mary higgins clark">MARY HIGGINS CLARK</option>
+                    <option value="maxime chattan">MAXIME CHATTAN</option>
+                    <option value="maxime lledo">MAXIME LLEDO</option>
+                    <option value="michael byrnes">MICHAEL BYRNES</option>
+                    <option value="michel bussi">MICHEL BUSSI</option>
+                    <option value="morgane montoriol">MORGANE MONTORIOL</option>
+                    <option value="nico augusto">NICO AUGUSTO</option>
+                    <option value="nicolas beuglet">NICOLAS BEUGLET</option>
+                    <option value="nicolas lebel">NICOLAS LEBEL</option>
+                    <option value="niko tackiam">NIKO TACKIAM</option>
+                    <option value="olivier bal">OLIVIER BAL</option>
+                    <option value="olivier norek">OLIVIER NOREK</option>
+                    <option value="owen king">OWEN KING</option>
+                    <option value="patricia cornwell">PATRICIA CORNWELL</option>
+                    <option value="pierre bellemare">PIERRE BELLEMARE</option>
+                    <option value="pierre bellemare">PIERRE BELLEMARE</option>
+                    <option value="rachel lee">RACHEL LEE</option>
+                    <option value="rene manzor">RENE MANZOR</option>
+                    <option value="richard paul evans">RICHARD PAUL EVANS</option>
+                    <option value="rick yancey">RICK YANCEY</option>
+                    <option value="robert markus">ROBERT MARKUS</option>
+                    <option value="rouletabille">ROULETABILLE</option>
+                    <option value="sarah crossan">SARAH CROSSAN</option>
+                    <option value="scot sigler">SCOT SIGLER</option>
+                    <option value="steinbeck">STEINBECK</option>
+                    <option value="stephen king">STEPHEN KING</option>
+                    <option value="stephen king">STEPHEN KING</option>
+                    <option value="vercors">VERCORS</option>
+                    <option value="william r. forstchen">WILLIAM R. FORSTCHEN</option>
+                    <option value="zola">ZOLA</option>
+                </select>
+            </form>
+            <!--                                         
                  Menu déroulant avec la liste des éditeurs
             -->
-        <form action="" class="filter filter_editor">
-            <label for="select_editor">Editeur</label>
-            <select size="1" name="select_editor" id="select_editor">
-                <option value="tout" selected>Tout</option>
-                <option value="ixelles éditions">Ixelles éditions</option>
-                <option value="pocket">Pocket</option>
-                <option value="albin michel">Albin Michel</option>
-                <option value="france loisirs">France Loisirs</option>
-                <option value="pkj">PKJ</option>
-                <option value="robert laffont">Robert Laffont</option>
-                <option value="xo éditions">Xo éditions</option>
-                <option value="milady">Milady</option>
-                <option value="bayard">Bayard</option>
-                <option value="gallimard jeunesse">Gallimard jeunesse</option>
-                <option value="comos polis">Comos Polis</option>
-                <option value="collection tremplin">Collection Tremplin</option>
-                <option value="robert markus">Robert Markus</option>
-                <option value="editions harlequin">Editions Harlequin</option>
-                <option value="label naos">Label Naos</option>
-                <option value="anne carrière">Anne Carrière</option>
-                <option value="marabout">Marabout</option>
-                <option value="le livre de poche">Le livre de poche</option>
-                <option value="editions de l'opportun">Editions de l'Opportun</option>
-                <option value="amazon">Amazon</option>
-                <option value="magnus">Magnus</option>
-                <option value="blossom">Blossom</option>
-                <option value="fayard">Fayard</option>
-                <option value="société nouvelle firmin-didot">Société nouvelle Firmin-didot</option>
-                <option value="folio">Folio</option>
-                <option value="dystopie">Dystopie</option>
-                <option value="fleuve noir">Fleuve Noir</option>
-                <option value="j'ai lu">J'ai Lu</option>
+            <form action="" class="filter filter_editor">
+                <label for="select_editor">Editeur</label>
+                <select size="1" name="select_editor" id="select_editor">
+                    <option value="tout" selected>Tout</option>
+                    <option value="ixelles éditions">Ixelles éditions</option>
+                    <option value="pocket">Pocket</option>
+                    <option value="albin michel">Albin Michel</option>
+                    <option value="france loisirs">France Loisirs</option>
+                    <option value="pkj">PKJ</option>
+                    <option value="robert laffont">Robert Laffont</option>
+                    <option value="xo éditions">Xo éditions</option>
+                    <option value="milady">Milady</option>
+                    <option value="bayard">Bayard</option>
+                    <option value="gallimard jeunesse">Gallimard jeunesse</option>
+                    <option value="comos polis">Comos Polis</option>
+                    <option value="collection tremplin">Collection Tremplin</option>
+                    <option value="robert markus">Robert Markus</option>
+                    <option value="editions harlequin">Editions Harlequin</option>
+                    <option value="label naos">Label Naos</option>
+                    <option value="anne carrière">Anne Carrière</option>
+                    <option value="marabout">Marabout</option>
+                    <option value="le livre de poche">Le livre de poche</option>
+                    <option value="editions de l'opportun">Editions de l'Opportun</option>
+                    <option value="amazon">Amazon</option>
+                    <option value="magnus">Magnus</option>
+                    <option value="blossom">Blossom</option>
+                    <option value="fayard">Fayard</option>
+                    <option value="société nouvelle firmin-didot">Société nouvelle Firmin-didot</option>
+                    <option value="folio">Folio</option>
+                    <option value="dystopie">Dystopie</option>
+                    <option value="fleuve noir">Fleuve Noir</option>
+                    <option value="j'ai lu">J'ai Lu</option>
 
-            </select>
-        </form>
-    </nav>
-    <p class="nbBook center">Nombre de livres : <span class="nbBookTop">0</span></p>
-    <section>
-        <div id="list" class="flexrow wrap center"></div>
-    </section>
-    
-    <p class="nbBook center">Nombre de livres : <span class="nbBookBottom">0</span></p>
-    <p class="noBook center hidden">Il n'y a aucun livre pour ces données</p>
+                </select>
+            </form>
+        </nav>
+        <p class="nbBook center">Nombre de livres : <span class="nbBookTop">0</span></p>
+        <section>
+            <div id="list" class="flexrow wrap center"></div>
+        </section>
+
+        <p class="nbBook center">Nombre de livres : <span class="nbBookBottom">0</span></p>
+        <p class="noBook center hidden">Il n'y a aucun livre pour ces données</p>
+    </main>
+
+    <!-- footer.php -->
+    <footer>
+        <p>
+            <strong>Copyright ©</strong>2023
+            <a href="https://portfolio.stephane-mouron.fr/" target="_blank" rel="noopener"><em> Stéphane Mouron
+                </em></a>
+            - Tous droits réservés
+        </p>
+    </footer>
 </body>
 
 <script type="text/javascript" src="./assets/js/scripts.js"></script>
