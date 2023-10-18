@@ -1,1157 +1,1564 @@
 {
-    "liste":
-        [
-			{
-				"id": 1,
-				"main_author": "WILLIAM R. FORSTCHEN",
-				"secondary_author": "",
-				"editor": "Ixelles éditions",
-				"title": "Une seconde après",
-				"title_cover": "une_seconde_apres",
-				"first_cover": "une_seconde_apres_1.jpg",
-				"fourth_cover": "une_seconde_apres_4.jpg"
-			},
-			{
-				"id": 2,
-				"main_author": "HARLAN COBEN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Sans défense",
-				"title_cover": "sans_defense",
-				"first_cover": "sans_defense_1.jpg",
-				"fourth_cover": "sans_defense_4.jpg"
-			},
-			{
-				"id": 3,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Le signal",
-				"title_cover": "le_signal",
-				"first_cover": "le_signal_1.jpg",
-				"fourth_cover": "le_signal_4.jpg"
-			},
-			{
-				"id": 4,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "La conjuration primitive",
-				"title_cover": "la_conjuration_primitive",
-				"first_cover": "la_conjuration_primitive_1.jpg",
-				"fourth_cover": "la_conjuration_primitive_4.jpg"
-			},
-			{
-				"id": 5,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Léviatemps",
-				"title_cover": "leviatemps",
-				"first_cover": "leviatemps_1.jpg",
-				"fourth_cover": "leviatemps_4.jpg"
-			},
-			{
-				"id": 6,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T1 - L'alliance des trois",
-				"title_cover": "autre_monde_-_t1_-_lalliance_des_trois",
-				"first_cover": "autre_monde_-_t1_-_lalliance_des_trois_1.jpg",
-				"fourth_cover": "autre_monde_-_t1_-_lalliance_des_trois_4.jpg"
-			},
-			{
-				"id": 7,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T2 - Maronce",
-				"title_cover": "autre_monde_-_t2_-_maronce",
-				"first_cover": "autre_monde_-_t2_-_maronce_1.jpg",
-				"fourth_cover": "autre_monde_-_t2_-_maronce_4.jpg"
-			},
-			{
-				"id": 8,
-				"main_author": "MAXIME CHATTAN", 
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T3 - Le coeur de la terre",
-				"title_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre",
-				"first_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_1.jpg",
-				"fourth_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_4.jpg"
-			},
-			{
-				"id": 9,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T4 - Entropia",
-				"title_cover": "autre_monde_-_t4_-_entropia",
-				"first_cover": "autre_monde_-_t4_-_entropia_1.jpg",
-				"fourth_cover": "autre_monde_-_t4_-_entropia_4.jpg"
-			},
-			{
-				"id": 10,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T5 - Oz",
-				"title_cover": "autre_monde_-_t5_-_oz",
-				"first_cover": "autre_monde_-_t5_-_oz_1.jpg",
-				"fourth_cover": "autre_monde_-_t5_-_oz_4.jpg"
-			},
-			{
-				"id": 11,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T6 - Neverland",
-				"title_cover": "autre_monde_-_t6_-_neverland",
-				"first_cover": "autre_monde_-_t6_-_neverland_1.jpg",
-				"fourth_cover": "autre_monde_-_t6_-_neverland_4.jpg"
-			},
-			{
-				"id": 12,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Autre monde - T7 - Genèse",
-				"title_cover": "autre_monde_-_t7_-_genese",
-				"first_cover": "autre_monde_-_t7_-_genese_1.jpg",
-				"fourth_cover": "autre_monde_-_t7_-_genese_4.jpg"
-			},
-			{
-				"id": 13,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "France Loisirs",
-				"title": "L'illusion",
-				"title_cover": "lillusion",
-				"first_cover": "lillusion_1.jpg",
-				"fourth_cover": "lillusion_4.jpg"
-			},
-			{
-				"id": 14,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "In Tenebris",
-				"title_cover": "in_tenebris",
-				"first_cover": "in_tenebris_1.jpg",
-				"fourth_cover": "in_tenebris_4.jpg"
-			},
-			{
-				"id": 15,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Maléfices",
-				"title_cover": "malefices",
-				"first_cover": "malefices_1.jpg",
-				"fourth_cover": "malefices_4.jpg"
-			},
-			{
-				"id": 16,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Le 5ème règne",
-				"title_cover": "le_5eme_regne",
-				"first_cover": "le_5eme_regne_1.jpg",
-				"fourth_cover": "le_5eme_regne_4.jpg"
-			},
-			{
-				"id": 17,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "L'âme du mal",
-				"title_cover": "lame_du_mal",
-				"first_cover": "lame_du_mal_1.jpg",
-				"fourth_cover": "lame_du_mal_4.jpg"
-			},
-			{
-				"id": 18,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Le requiem des abysses",
-				"title_cover": "le_requiem_des_abysses",
-				"first_cover": "le_requiem_des_abysses_1.jpg",
-				"fourth_cover": "le_requiem_des_abysses_4.jpg"
-			},
-			{
-				"id": 19,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "L'appel du néan",
-				"title_cover": "lappel_du_nean",
-				"first_cover": "lappel_du_nean_1.jpg",
-				"fourth_cover": "lappel_du_nean_4.jpg"
-			},
-			{
-				"id": 20,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "La promesse des ténèbres",
-				"title_cover": "la_promesse_des_tenebres",
-				"first_cover": "la_promesse_des_tenebres_1.jpg",
-				"fourth_cover": "la_promesse_des_tenebres_4.jpg"
-			},
-			{
-				"id": 21,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Le sang du temps",
-				"title_cover": "le_sang_du_temps",
-				"first_cover": "le_sang_du_temps_1.jpg",
-				"fourth_cover": "le_sang_du_temps_4.jpg"
-			},
-			{
-				"id": 22,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Le cri",
-				"title_cover": "le_cri",
-				"first_cover": "le_cri_1.jpg",
-				"fourth_cover": "le_cri_4.jpg"
-			},
-			{
-				"id": 23,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le labyrinthe - T1",
-				"title_cover": "le_labyrinthe_-_t1",
-				"first_cover": "le_labyrinthe_-_t1_1.jpg",
-				"fourth_cover": "le_labyrinthe_-_t1_4.jpg"
-			},
-			{
-				"id": 24,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le labyrinthe - T2 - La terre brulée",
-				"title_cover": "le_labyrinthe_-_t2_-_la_terre_brulee",
-				"first_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_1.jpg",
-				"fourth_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_4.jpg"
-			},
-			{
-				"id": 25,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le labyrinthe - T3 - Le remède mortel",
-				"title_cover": "le_labyrinthe_-_t3_-_le_remede_mortel",
-				"first_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_1.jpg",
-				"fourth_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_4.jpg"
-			},
-			{
-				"id": 26,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Avant la labyrinthe - L'ordre de tuer",
-				"title_cover": "avant_la_labyrinthe_-_lordre_de_tuer",
-				"first_cover": "avant_la_labyrinthe_-_lordre_de_tuer_1.jpg",
-				"fourth_cover": "avant_la_labyrinthe_-_lordre_de_tuer_4.jpg"
-			},
-			{
-				"id": 27,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Avant la labyrinthe - La braise",
-				"title_cover": "avant_la_labyrinthe_-_la_braise",
-				"first_cover": "avant_la_labyrinthe_-_la_braise_1.jpg",
-				"fourth_cover": "avant_la_labyrinthe_-_la_braise_4.jpg"
-			},
-			{
-				"id": 28,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Avant la labyrinthe - Le rivage des survivants",
-				"title_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants",
-				"first_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_1.jpg",
-				"fourth_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_4.jpg"
-			},
-			{
-				"id": 29,
-				"main_author": "JAMES DASHNER",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Avant la labyrinthe - Le destin de Newt",
-				"title_cover": "avant_la_labyrinthe_-_le_destin_de_newt",
-				"first_cover": "avant_la_labyrinthe_-_le_destin_de_newt_1.jpg",
-				"fourth_cover": "avant_la_labyrinthe_-_le_destin_de_newt_4.jpg"
-			},
-			{
-				"id": 30,
-				"main_author": "RICHARD PAUL EVANS",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le cercle des 17 - T1",
-				"title_cover": "le_cercle_des_17_-_t1",
-				"first_cover": "le_cercle_des_17_-_t1_1.jpg",
-				"fourth_cover": "le_cercle_des_17_-_t1_4.jpg"
-			},
-			{
-				"id": 31,
-				"main_author": "RICHARD PAUL EVANS",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le cercle des 17 - T2 - Dans les griffes de l'ennemi",
-				"title_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi",
-				"first_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_1.jpg",
-				"fourth_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_4.jpg"
-			},
-			{
-				"id": 32,
-				"main_author": "RICHARD PAUL EVANS",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le cercle des 17 - T3 - Bataille navale",
-				"title_cover": "le_cercle_des_17_-_t3_-_bataille_navale",
-				"first_cover": "le_cercle_des_17_-_t3_-_bataille_navale_1.jpg",
-				"fourth_cover": "le_cercle_des_17_-_t3_-_bataille_navale_4.jpg"
-			},
-			{
-				"id": 33,
-				"main_author": "RICHARD PAUL EVANS",
-				"secondary_author": "",
-				"editor": "PKJ",
-				"title": "Le cercle des 17 - T4 - A la recherche de Jade Dragon",
-				"title_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon",
-				"first_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_1.jpg",
-				"fourth_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_4.jpg"
-			},
-			{
-				"id": 34,
-				"main_author": "RICK YANCEY",
-				"secondary_author": "",
-				"editor": "Robert Laffont",
-				"title": "T1 - La 5ème vague",
-				"title_cover": "t1_-_la_5eme_vague",
-				"first_cover": "t1_-_la_5eme_vague_1.jpg",
-				"fourth_cover": "t1_-_la_5eme_vague_4.jpg"
-			},
-			{
-				"id": 35,
-				"main_author": "RICK YANCEY",
-				"secondary_author": "",
-				"editor": "Robert Laffont",
-				"title": "T2 - La mer infinie",
-				"title_cover": "t2_-_la_mer_infinie",
-				"first_cover": "t2_-_la_mer_infinie_1.jpg",
-				"fourth_cover": "t2_-_la_mer_infinie_4.jpg"
-			},
-			{
-				"id": 36,
-				"main_author": "RICK YANCEY",
-				"secondary_author": "",
-				"editor": "Robert Laffont",
-				"title": "T3 - La dernière étoile",
-				"title_cover": "t3_-_la_derniere_etoile",
-				"first_cover": "t3_-_la_derniere_etoile_1.jpg",
-				"fourth_cover": "t3_-_la_derniere_etoile_4.jpg"
-			},
-			{
-				"id": 37,
-				"main_author": "MICHAEL BYRNES",
-				"secondary_author": "",
-				"editor": "France Loisirs",
-				"title": "Le mystère de l'arche sacrée",
-				"title_cover": "le_mystere_de_larche_sacree",
-				"first_cover": "le_mystere_de_larche_sacree_1.jpg",
-				"fourth_cover": "le_mystere_de_larche_sacree_4.jpg"
-			},
-			{
-				"id": 38,
-				"main_author": "NICOLAS BEUGLET",
-				"secondary_author": "",
-				"editor": "Xo éditions",
-				"title": "L'ile du diable",
-				"title_cover": "lile_du_diable",
-				"first_cover": "lile_du_diable_1.jpg",
-				"fourth_cover": "lile_du_diable_4.jpg"
-			},
-			{
-				"id": 39,
-				"main_author": "SCOT SIGLER",
-				"secondary_author": "",
-				"editor": "Milady",
-				"title": "Infection",
-				"title_cover": "infection",
-				"first_cover": "infection_1.jpg",
-				"fourth_cover": "infection_4.jpg"
-			},
-			{
-				"id": 40,
-				"main_author": "SARAH CROSSAN",
-				"secondary_author": "",
-				"editor": "Bayard",
-				"title": "La loi du Dôme",
-				"title_cover": "la_loi_du_dome",
-				"first_cover": "la_loi_du_dome_1.jpg",
-				"fourth_cover": "la_loi_du_dome_4.jpg"
-			},
-			{
-				"id": 41,
-				"main_author": "KARINE MARTINS",
-				"secondary_author": "",
-				"editor": "Gallimard jeunesse",
-				"title": "Ceux qui ne peuvent pas mourir - T1 - La bête de porte-vent",
-				"title_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent",
-				"first_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_1.jpg",
-				"fourth_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_4.jpg"
-			},
-
-			{
-				"id": 42,
-				"main_author": "CYRIL CARRERE",
-				"secondary_author": "",
-				"editor": "Comos Polis",
-				"title": "Le quatrième rassemblement",
-				"title_cover": "le_quatrieme_rassemblement",
-				"first_cover": "le_quatrieme_rassemblement_1.jpg",
-				"fourth_cover": "le_quatrieme_rassemblement_4.jpg"
-			},
-			{
-				"id": 43,
-				"main_author": "MARTIN",
-				"secondary_author": "",
-				"editor": "Collection Tremplin",
-				"title": "Une simple vie",
-				"title_cover": "une_simple_vie",
-				"first_cover": "une_simple_vie_1.jpg",
-				"fourth_cover": "une_simple_vie_4.jpg"
-			},
-			{
-				"id": 44,
-				"main_author": "ROBERT MARKUS",
-				"secondary_author": "",
-				"editor": "Robert Markus",
-				"title": "Combattants sans passé - Legio Patria Nostra",
-				"title_cover": "combattants_sans_passe_-_legio_patria_nostra",
-				"first_cover": "combattants_sans_passe_-_legio_patria_nostra_1.jpg",
-				"fourth_cover": "combattants_sans_passe_-_legio_patria_nostra_4.jpg"
-			},
-			{
-				"id": 45,
-				"main_author": "RACHEL LEE",
-				"secondary_author": "",
-				"editor": "Editions Harlequin",
-				"title": "Le lien du mal",
-				"title_cover": "le_lien_du_mal",
-				"first_cover": "le_lien_du_mal_1.jpg",
-				"fourth_cover": "le_lien_du_mal_4.jpg"
-			},
-			{
-				"id": 46,
-				"main_author": "CEDRIC SIRE",
-				"secondary_author": "",
-				"editor": "France Loisirs",
-				"title": "Le premier sang",
-				"title_cover": "le_premier_sang",
-				"first_cover": "le_premier_sang_1.jpg",
-				"fourth_cover": "le_premier_sang_4.jpg"
-			},
-			{
-				"id": 47,
-				"main_author": "JEAN-LUC BIZIEN",
-				"secondary_author": "",
-				"editor": "Label Naos",
-				"title": "Les visiteurs",
-				"title_cover": "les_visiteurs",
-				"first_cover": "les_visiteurs_1.jpg",
-				"fourth_cover": "les_visiteurs_4.jpg"
-			},
-			{
-				"id": 48,
-				"main_author": "DANIELLE THIERY",
-				"secondary_author": "MARC WELINKSI",
-				"editor": "Anne Carrière",
-				"title": "Mourir ne suffit pas",
-				"title_cover": "mourir_ne_suffit_pas",
-				"first_cover": "mourir_ne_suffit_pas_1.jpg",
-				"fourth_cover": "mourir_ne_suffit_pas_4.jpg"
-			},
-			{
-				"id": 49,
-				"main_author": "NICOLAS LEBEL",
-				"secondary_author": "",
-				"editor": "Marabout",
-				"title": "Le jour des morts",
-				"title_cover": "le_jour_des_morts",
-				"first_cover": "le_jour_des_morts_1.jpg",
-				"fourth_cover": "le_jour_des_morts_4.jpg"
-			},
-			{
-				"id": 50,
-				"main_author": "NICOLAS LEBEL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Sans pitié ni remords",
-				"title_cover": "sans_pitie_ni_remords",
-				"first_cover": "sans_pitie_ni_remords_1.jpg",
-				"fourth_cover": "sans_pitie_ni_remords_4.jpg"
-			},
-			{
-				"id": 51,
-				"main_author": "NICOLAS LEBEL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "De cauchemar et de feu",
-				"title_cover": "de_cauchemar_et_de_feu",
-				"first_cover": "de_cauchemar_et_de_feu_1.jpg",
-				"fourth_cover": "de_cauchemar_et_de_feu_4.jpg"
-			},
-			{
-				"id": 52,
-				"main_author": "NICOLAS LEBEL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Dans la brume écarlate",
-				"title_cover": "dans_la_brume_ecarlate",
-				"first_cover": "dans_la_brume_ecarlate_1.jpg",
-				"fourth_cover": "dans_la_brume_ecarlate_4.jpg"
-			},
-			{
-				"id": 53,
-				"main_author": "NICOLAS LEBEL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "L'heure des fous",
-				"title_cover": "lheure_des_fous",
-				"first_cover": "lheure_des_fous_1.jpg",
-				"fourth_cover": "lheure_des_fous_4.jpg"
-			},
-			{
-				"id": 54,
-				"main_author": "CEDRIC SIRE",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Avec tes yeux",
-				"title_cover": "avec_tes_yeux",
-				"first_cover": "avec_tes_yeux_1.jpg",
-				"fourth_cover": "avec_tes_yeux_4.jpg"
-			},
-			{
-				"id": 55,
-				"main_author": "CEDRIC SIRE",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Le jeu de l'ombre",
-				"title_cover": "le_jeu_de_lombre",
-				"first_cover": "le_jeu_de_lombre_1.jpg",
-				"fourth_cover": "le_jeu_de_lombre_4.jpg"
-			},
-			{
-				"id": 56,
-				"main_author": "RENE MANZOR",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Dans les brumes du mal",
-				"title_cover": "dans_les_brumes_du_mal",
-				"first_cover": "dans_les_brumes_du_mal_1.jpg",
-				"fourth_cover": "dans_les_brumes_du_mal_4.jpg"
-			},
-			{
-				"id": 57,
-				"main_author": "CLAIRE FAVAN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Serre moi fort",
-				"title_cover": "serre_moi_fort",
-				"first_cover": "serre_moi_fort_1.jpg",
-				"fourth_cover": "serre_moi_fort_4.jpg"
-			},
-			{
-				"id": 58,
-				"main_author": "JACQUES EXPERT",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Deux gouttes d'eau",
-				"title_cover": "deux_gouttes_deau",
-				"first_cover": "deux_gouttes_deau_1.jpg",
-				"fourth_cover": "deux_gouttes_deau_4.jpg"
-			},
-			{
-				"id": 59,
-				"main_author": "IAN MANOOL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Heimaey",
-				"title_cover": "heimaey",
-				"first_cover": "heimaey_1.jpg",
-				"fourth_cover": "heimaey_4.jpg"
-			},
-			{
-				"id": 60,
-				"main_author": "NICOLAS BEUGLET",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Complot",
-				"title_cover": "complot",
-				"first_cover": "complot_1.jpg",
-				"fourth_cover": "complot_4.jpg"
-			},
-			{
-				"id": 61,
-				"main_author": "OLIVIER BAL",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "L'affaire Clara Miller",
-				"title_cover": "laffaire_clara_miller",
-				"first_cover": "laffaire_clara_miller_1.jpg",
-				"fourth_cover": "laffaire_clara_miller_4.jpg"
-			},
-			{
-				"id": 62,
-				"main_author": "MICHEL BUSSI",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Tout ce qui est sur terre doit périr",
-				"title_cover": "tout_ce_qui_est_sur_terre_doit_perir",
-				"first_cover": "tout_ce_qui_est_sur_terre_doit_perir_1.jpg",
-				"fourth_cover": "tout_ce_qui_est_sur_terre_doit_perir_4.jpg"
-			},
-			{
-				"id": 63,
-				"main_author": "BERNARD WERBER",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "L'empire des anges",
-				"title_cover": "lempire_des_anges",
-				"first_cover": "lempire_des_anges_1.jpg",
-				"fourth_cover": "lempire_des_anges_4.jpg"
-			},
-			{
-				"id": 64,
-				"main_author": "ANTHONY AUGUSTO",
-				"secondary_author": "",
-				"editor": "Editions de l'Opportun",
-				"title": "Chasseur de fantômes - Incroyable voyage au royaumes des ombres",
-				"title_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres",
-				"first_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_1.jpg",
-				"fourth_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_4.jpg"
-			},
-			{
-				"id": 65,
-				"main_author": "GUY ROGER DUVERT",
-				"secondary_author": "",
-				"editor": "Amazon",
-				"title": "Extinction",
-				"title_cover": "extinction",
-				"first_cover": "extinction_1.jpg",
-				"fourth_cover": "extinction_4.jpg"
-			},
-			{
-				"id": 66,
-				"main_author": "LAURENT OBERTONE",
-				"secondary_author": "",
-				"editor": "Magnus",
-				"title": "Guerilla - T1 - Le jour où tout s'embrase",
-				"title_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase",
-				"first_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_1.jpg",
-				"fourth_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_4.jpg"
-			},
-			{
-				"id": 67,
-				"main_author": "HUGH HOWEY",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Silo - T1",
-				"title_cover": "silo_-_t1",
-				"first_cover": "silo_-_t1_1.jpg",
-				"fourth_cover": "silo_-_t1_4.jpg"
-			},
-			{
-				"id": 68,
-				"main_author": "HUGH HOWEY",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Silo - T2 - Origines",
-				"title_cover": "silo_-_t2_-_origines",
-				"first_cover": "silo_-_t2_-_origines_1.jpg",
-				"fourth_cover": "silo_-_t2_-_origines_4.jpg"
-			},
-			{
-				"id": 69,
-				"main_author": "HUGH HOWEY",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Silo - T3 - Générations",
-				"title_cover": "silo_-_t3_-_generations",
-				"first_cover": "silo_-_t3_-_generations_1.jpg",
-				"fourth_cover": "silo_-_t3_-_generations_4.jpg"
-			},
-			{
-				"id": 70,
-				"main_author": "HARLAN COBEN",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Disparu à jamais",
-				"title_cover": "disparu_a_jamais",
-				"first_cover": "disparu_a_jamais_1.jpg",
-				"fourth_cover": "disparu_a_jamais_4.jpg"
-			},
-			{
-				"id": 71,
-				"main_author": "PIERRE BELLEMARE",
-				"secondary_author": "JEAN-MARC EPINOUX",
-				"editor": "Le livre de poche",
-				"title": "Ils ont vu l'au-delà - les aventuriers du Xxè siècle",
-				"title_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle",
-				"first_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_1.jpg",
-				"fourth_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_4.jpg"
-			},
-			{
-				"id": 72,
-				"main_author": "NICO AUGUSTO",
-				"secondary_author": "",
-				"editor": "Blossom",
-				"title": "Ovni - Ils nous ont menti",
-				"title_cover": "ovni_-_ils_nous_ont_menti",
-				"first_cover": "ovni_-_ils_nous_ont_menti_1.jpg",
-				"fourth_cover": "ovni_-_ils_nous_ont_menti_4.jpg"
-			},
-			{
-				"id": 73,
-				"main_author": "NICO AUGUSTO",
-				"secondary_author": "",
-				"editor": "Amazon",
-				"title": "Les saisons du paradis",
-				"title_cover": "les_saisons_du_paradis",
-				"first_cover": "les_saisons_du_paradis_1.jpg",
-				"fourth_cover": "les_saisons_du_paradis_4.jpg"
-			},
-			{
-				"id": 74,
-				"main_author": "OLIVIER NOREK",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Code 93",
-				"title_cover": "code_93",
-				"first_cover": "code_93_1.jpg",
-				"fourth_cover": "code_93_4.jpg"
-			},
-			{
-				"id": 75,
-				"main_author": "OLIVIER NOREK",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Sur tensions",
-				"title_cover": "sur_tensions",
-				"first_cover": "sur_tensions_1.jpg",
-				"fourth_cover": "sur_tensions_4.jpg"
-			},
-			{
-				"id": 76,
-				"main_author": "OLIVIER NOREK",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Territoires",
-				"title_cover": "territoires",
-				"first_cover": "territoires_1.jpg",
-				"fourth_cover": "territoires_4.jpg"
-			},
-			{
-				"id": 77,
-				"main_author": "OLIVIER NOREK",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Entre deux mondes",
-				"title_cover": "entre_deux_mondes",
-				"first_cover": "entre_deux_mondes_1.jpg",
-				"fourth_cover": "entre_deux_mondes_4.jpg"
-			},
-			{
-				"id": 78,
-				"main_author": "MAXIME CHATTAN",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "La constance de predateur",
-				"title_cover": "la_constance_de_predateur",
-				"first_cover": "la_constance_de_predateur_1.jpg",
-				"fourth_cover": "la_constance_de_predateur_4.jpg"
-			},
-			{
-				"id": 79,
-				"main_author": "MAXIME LLEDO",
-				"secondary_author": "",
-				"editor": "Fayard",
-				"title": "Génération fracassée",
-				"title_cover": "generation_fracassee",
-				"first_cover": "generation_fracassee_1.jpg",
-				"fourth_cover": "generation_fracassee_4.jpg"
-			},
-			{
-				"id": 80,
-				"main_author": "BERNARD WERBER",
-				"secondary_author": "",
-				"editor": "Albin Michel",
-				"title": "Troisième humanité",
-				"title_cover": "troisieme_humanite",
-				"first_cover": "troisieme_humanite_1.jpg",
-				"fourth_cover": "troisieme_humanite_4.jpg"
-			},
-			{
-				"id": 81,
-				"main_author": "BERNARD WERBER",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Sa majesté des chats",
-				"title_cover": "sa_majeste_des_chats",
-				"first_cover": "sa_majeste_des_chats_1.jpg",
-				"fourth_cover": "sa_majeste_des_chats_4.jpg"
-			},
-			{
-				"id": 82,
-				"main_author": "BERNARD WERBER",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "La planète des chats",
-				"title_cover": "la_planete_des_chats",
-				"first_cover": "la_planete_des_chats_1.jpg",
-				"fourth_cover": "la_planete_des_chats_4.jpg"
-			},
-			{
-				"id": 83,
-				"main_author": "PIERRE BELLEMARE",
-				"secondary_author": "JEAN-FRANCOIS NAHMIAS",
-				"editor": "Le livre de poche",
-				"title": "Les tueurs diaboliques",
-				"title_cover": "les_tueurs_diaboliques",
-				"first_cover": "les_tueurs_diaboliques_1.jpg",
-				"fourth_cover": "les_tueurs_diaboliques_4.jpg"
-			},
-			{
-				"id": 84,
-				"main_author": "BERNARD WERBER",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Demain les chats",
-				"title_cover": "demain_les_chats",
-				"first_cover": "demain_les_chats_1.jpg",
-				"fourth_cover": "demain_les_chats_4.jpg"
-			},
-			{
-				"id": 85,
-				"main_author": "NIKO TACKIAM",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Toxique",
-				"title_cover": "toxique",
-				"first_cover": "toxique_1.jpg",
-				"fourth_cover": "toxique_4.jpg"
-			},
-			{
-				"id": 86,
-				"main_author": "ISAAC ASIMOV",
-				"secondary_author": "",
-				"editor": "Société nouvelle Firmin-didot",
-				"title": "Azazel",
-				"title_cover": "azazel",
-				"first_cover": "azazel_1.jpg",
-				"fourth_cover": "azazel_4.jpg"
-			},
-			{
-				"id": 87,
-				"main_author": "PATRICIA CORNWELL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Post Mortem",
-				"title_cover": "post_mortem",
-				"first_cover": "post_mortem_1.jpg",
-				"fourth_cover": "post_mortem_4.jpg"
-			},
-			{
-				"id": 88,
-				"main_author": "ZOLA",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Pot-Bouille",
-				"title_cover": "pot-bouille",
-				"first_cover": "pot-bouille_1.jpg",
-				"fourth_cover": "pot-bouille_4.jpg"
-			},
-			{
-				"id": 89,
-				"main_author": "ERICH MARIA REMARQUE",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "A l'ouest rien de nouveau",
-				"title_cover": "a_louest_rien_de_nouveau",
-				"first_cover": "a_louest_rien_de_nouveau_1.jpg",
-				"fourth_cover": "a_louest_rien_de_nouveau_4.jpg"
-			},
-			{
-				"id": 90,
-				"main_author": "STEINBECK",
-				"secondary_author": "",
-				"editor": "Folio",
-				"title": "Les raisins de la colère",
-				"title_cover": "les_raisins_de_la_colere",
-				"first_cover": "les_raisins_de_la_colere_1.jpg",
-				"fourth_cover": "les_raisins_de_la_colere_4.jpg"
-			},
-			{
-				"id": 91,
-				"main_author": "FIONA BARTON",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "La coupure",
-				"title_cover": "la_coupure",
-				"first_cover": "la_coupure_1.jpg",
-				"fourth_cover": "la_coupure_4.jpg"
-			},
-			{
-				"id": 92,
-				"main_author": "PATRICIA CORNWELL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Une enquête de Kay Scarpetta - Une peine d'exception",
-				"title_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception",
-				"first_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_1.jpg",
-				"fourth_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_4.jpg"
-			},
-			{
-				"id": 93,
-				"main_author": "PATRICIA CORNWELL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Une enquête de Kay Scarpetta - Mémoires mortes",
-				"title_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes",
-				"first_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_1.jpg",
-				"fourth_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_4.jpg"
-			},
-			{
-				"id": 94,
-				"main_author": "PATRICIA CORNWELL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Une enquête de Kay Scarpetta - Sans raison",
-				"title_cover": "une_enquete_de_kay_scarpetta_-_sans_raison",
-				"first_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_1.jpg",
-				"fourth_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_4.jpg"
-			},
-			{
-				"id": 95,
-				"main_author": "CHRISTOPHE MARTINOLLI",
-				"secondary_author": "",
-				"editor": "Dystopie",
-				"title": "Dernier départ après l'éffondrement",
-				"title_cover": "dernier_depart_apres_leffondrement",
-				"first_cover": "dernier_depart_apres_leffondrement_1.jpg",
-				"fourth_cover": "dernier_depart_apres_leffondrement_4.jpg"
-			},
-			{
-				"id": 96,
-				"main_author": "CHRISTOPHE MARTINOLLI",
-				"secondary_author": "",
-				"editor": "Dystopie",
-				"title": "Magonia",
-				"title_cover": "magonia",
-				"first_cover": "magonia_1.jpg",
-				"fourth_cover": "magonia_4.jpg"
-			},
-			{
-				"id": 97,
-				"main_author": "CHRISTOPHE MARTINOLLI",
-				"secondary_author": "",
-				"editor": "Dystopie",
-				"title": "Fin des temps",
-				"title_cover": "fin_des_temps",
-				"first_cover": "fin_des_temps_1.jpg",
-				"fourth_cover": "fin_des_temps_4.jpg"
-			},
-			{
-				"id": 98,
-				"main_author": "FRANCK THILLIEZ",
-				"secondary_author": "",
-				"editor": "Fleuve Noir",
-				"title": "Il était deux fois",
-				"title_cover": "il_etait_deux_fois",
-				"first_cover": "il_etait_deux_fois_1.jpg",
-				"fourth_cover": "il_etait_deux_fois_4.jpg"
-			},
-			{
-				"id": 99,
-				"main_author": "HENRI LOEVENBRUCK",
-				"secondary_author": "",
-				"editor": "J'ai Lu",
-				"title": "Le mystère Fulcanelli",
-				"title_cover": "le_mystere_fulcanelli",
-				"first_cover": "le_mystere_fulcanelli_1.jpg",
-				"fourth_cover": "le_mystere_fulcanelli_4.jpg"
-			},
-			{
-				"id": 100,
-				"main_author": "MORGANE MONTORIOL",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Taches rousses",
-				"title_cover": "taches_rousses",
-				"first_cover": "taches_rousses_1.jpg",
-				"fourth_cover": "taches_rousses_4.jpg"
-			},
-			{
-				"id": 101,
-				"main_author": "OLIVIER BAL",
-				"secondary_author": "",
-				"editor": "Pocket",
-				"title": "Le maitre des limbes",
-				"title_cover": "le_maitre_des_limbes",
-				"first_cover": "le_maitre_des_limbes_1.jpg",
-				"fourth_cover": "le_maitre_des_limbes_4.jpg"
-			},
-			{
-				"id": 102,
-				"main_author": "STEPHEN KING",
-				"secondary_author": "",
-				"editor": "",
-				"title": "La part des ténèbres",
-				"title_cover": "la_part_des_tenebres",
-				"first_cover": "la_part_des_tenebres_1.jpg",
-				"fourth_cover": "la_part_des_tenebres_4.jpg"
-			},
-			{
-				"id": 103,
-				"main_author": "STEPHEN KING",
-				"secondary_author": "",
-				"editor": "",
-				"title": "L'institut",
-				"title_cover": "linstitut",
-				"first_cover": "linstitut_1.jpg",
-				"fourth_cover": "linstitut_4.jpg"
-			},
-			{
-				"id": 104,
-				"main_author": "STEPHEN KING",
-				"secondary_author": "OWEN KING",
-				"editor": "Albin Michel",
-				"title": "Sleeping Beauties",
-				"title_cover": "sleeping_beauties",
-				"first_cover": "sleeping_beauties_1.jpg",
-				"fourth_cover": "sleeping_beauties_4.jpg"
-			},
-			{
-				"id": 105,
-				"main_author": "ZOLA",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Germinal",
-				"title_cover": "germinal",
-				"first_cover": "germinal_1.jpg",
-				"fourth_cover": "germinal_4.jpg"
-			},
-			{
-				"id": 106,
-				"main_author": "ZOLA",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Au bonheur des dames",
-				"title_cover": "au_bonheur_des_dames",
-				"first_cover": "au_bonheur_des_dames_1.jpg",
-				"fourth_cover": "au_bonheur_des_dames_4.jpg"
-			},
-			{
-				"id": 107,
-				"main_author": "ROULETABILLE",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Le parfun de la dame en noir",
-				"title_cover": "le_parfun_de_la_dame_en_noir",
-				"first_cover": "le_parfun_de_la_dame_en_noir_1.jpg",
-				"fourth_cover": "le_parfun_de_la_dame_en_noir_4.jpg"
-			},
-			{
-				"id": 108,
-				"main_author": "ROULETABILLE",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Le mystère de la chambre jaune",
-				"title_cover": "le_mystere_de_la_chambre_jaune",
-				"first_cover": "le_mystere_de_la_chambre_jaune_1.jpg",
-				"fourth_cover": "le_mystere_de_la_chambre_jaune_4.jpg"
-			},
-			{
-				"id": 109,
-				"main_author": "FRED VARGAS",
-				"secondary_author": "",
-				"editor": "J'ai Lu",
-				"title": "Debut les morts",
-				"title_cover": "debut_les_morts",
-				"first_cover": "debut_les_morts_1.jpg",
-				"fourth_cover": "debut_les_morts_4.jpg"
-			},
-			{
-				"id": 110,
-				"main_author": "VERCORS",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Le silence de la mer",
-				"title_cover": "le_silence_de_la_mer",
-				"first_cover": "le_silence_de_la_mer_1.jpg",
-				"fourth_cover": "le_silence_de_la_mer_4.jpg"
-			},
-			{
-				"id": 111,
-				"main_author": "MARY HIGGINS CLARK",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Deux petites filles en bleu",
-				"title_cover": "deux_petites_filles_en_bleu",
-				"first_cover": "deux_petites_filles_en_bleu_1.jpg",
-				"fourth_cover": "deux_petites_filles_en_bleu_4.jpg"
-			},
-			{
-				"id": 112,
-				"main_author": "MARY HIGGINS CLARK",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Rien ne vaut la douceur du foyer",
-				"title_cover": "rien_ne_vaut_la_douceur_du_foyer",
-				"first_cover": "rien_ne_vaut_la_douceur_du_foyer_1.jpg",
-				"fourth_cover": "rien_ne_vaut_la_douceur_du_foyer_4.jpg"
-			},
-			{
-				"id": 113,
-				"main_author": "MARY HIGGINS CLARK",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Un jour tu verras...",
-				"title_cover": "un_jour_tu_verras",
-				"first_cover": "un_jour_tu_verras_1.jpg",
-				"fourth_cover": "un_jour_tu_verras_4.jpg"
-			},
-			{
-				"id": 114,
-				"main_author": "MARY HIGGINS CLARK",
-				"secondary_author": "",
-				"editor": "Le livre de poche",
-				"title": "Je t'ai donné mon cœur",
-				"title_cover": "je_tai_donne_mon_cœur",
-				"first_cover": "je_tai_donne_mon_cœur_1.jpg",
-				"fourth_cover": "je_tai_donne_mon_cœur_4.jpg"
-			},
-			{
-				"id": 115,
-				"main_author": "MARY HIGGINS CLARK",
-				"secondary_author": "ALAFAIR BURKE",
-				"editor": "Le livre de poche",
-				"title": "La reine du bal",
-				"title_cover": "la_reine_du_bal",
-				"first_cover": "la_reine_du_bal_1.jpg",
-				"fourth_cover": "la_reine_du_bal_4.jpg"
-			}
-		]
+	"liste": [
+		{
+			"id": 1,
+			"main_author": "WILLIAM R. FORSTCHEN",
+			"secondary_author": "",
+			"editor": "Ixelles éditions",
+			"title": "Une seconde après",
+			"title_cover": "une_seconde_apres",
+			"first_cover": "une_seconde_apres_1.jpg",
+			"fourth_cover": "une_seconde_apres_4.jpg"
+		},
+		{
+			"id": 2,
+			"main_author": "HARLAN COBEN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Sans défense",
+			"title_cover": "sans_defense",
+			"first_cover": "sans_defense_1.jpg",
+			"fourth_cover": "sans_defense_4.jpg"
+		},
+		{
+			"id": 3,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Le signal",
+			"title_cover": "le_signal",
+			"first_cover": "le_signal_1.jpg",
+			"fourth_cover": "le_signal_4.jpg"
+		},
+		{
+			"id": 4,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "La conjuration primitive",
+			"title_cover": "la_conjuration_primitive",
+			"first_cover": "la_conjuration_primitive_1.jpg",
+			"fourth_cover": "la_conjuration_primitive_4.jpg"
+		},
+		{
+			"id": 5,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Léviatemps",
+			"title_cover": "leviatemps",
+			"first_cover": "leviatemps_1.jpg",
+			"fourth_cover": "leviatemps_4.jpg"
+		},
+		{
+			"id": 6,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T1 - L'alliance des trois",
+			"title_cover": "autre_monde_-_t1_-_lalliance_des_trois",
+			"first_cover": "autre_monde_-_t1_-_lalliance_des_trois_1.jpg",
+			"fourth_cover": "autre_monde_-_t1_-_lalliance_des_trois_4.jpg"
+		},
+		{
+			"id": 7,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T2 - Maronce",
+			"title_cover": "autre_monde_-_t2_-_maronce",
+			"first_cover": "autre_monde_-_t2_-_maronce_1.jpg",
+			"fourth_cover": "autre_monde_-_t2_-_maronce_4.jpg"
+		},
+		{
+			"id": 8,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T3 - Le coeur de la terre",
+			"title_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre",
+			"first_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_1.jpg",
+			"fourth_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_4.jpg"
+		},
+		{
+			"id": 9,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T4 - Entropia",
+			"title_cover": "autre_monde_-_t4_-_entropia",
+			"first_cover": "autre_monde_-_t4_-_entropia_1.jpg",
+			"fourth_cover": "autre_monde_-_t4_-_entropia_4.jpg"
+		},
+		{
+			"id": 10,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T5 - Oz",
+			"title_cover": "autre_monde_-_t5_-_oz",
+			"first_cover": "autre_monde_-_t5_-_oz_1.jpg",
+			"fourth_cover": "autre_monde_-_t5_-_oz_4.jpg"
+		},
+		{
+			"id": 11,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T6 - Neverland",
+			"title_cover": "autre_monde_-_t6_-_neverland",
+			"first_cover": "autre_monde_-_t6_-_neverland_1.jpg",
+			"fourth_cover": "autre_monde_-_t6_-_neverland_4.jpg"
+		},
+		{
+			"id": 12,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Autre monde - T7 - Genèse",
+			"title_cover": "autre_monde_-_t7_-_genese",
+			"first_cover": "autre_monde_-_t7_-_genese_1.jpg",
+			"fourth_cover": "autre_monde_-_t7_-_genese_4.jpg"
+		},
+		{
+			"id": 13,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "France Loisirs",
+			"title": "L'illusion",
+			"title_cover": "lillusion",
+			"first_cover": "lillusion_1.jpg",
+			"fourth_cover": "lillusion_4.jpg"
+		},
+		{
+			"id": 14,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "In Tenebris",
+			"title_cover": "in_tenebris",
+			"first_cover": "in_tenebris_1.jpg",
+			"fourth_cover": "in_tenebris_4.jpg"
+		},
+		{
+			"id": 15,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Maléfices",
+			"title_cover": "malefices",
+			"first_cover": "malefices_1.jpg",
+			"fourth_cover": "malefices_4.jpg"
+		},
+		{
+			"id": 16,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Le 5ème règne",
+			"title_cover": "le_5eme_regne",
+			"first_cover": "le_5eme_regne_1.jpg",
+			"fourth_cover": "le_5eme_regne_4.jpg"
+		},
+		{
+			"id": 17,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "L'âme du mal",
+			"title_cover": "lame_du_mal",
+			"first_cover": "lame_du_mal_1.jpg",
+			"fourth_cover": "lame_du_mal_4.jpg"
+		},
+		{
+			"id": 18,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Le requiem des abysses",
+			"title_cover": "le_requiem_des_abysses",
+			"first_cover": "le_requiem_des_abysses_1.jpg",
+			"fourth_cover": "le_requiem_des_abysses_4.jpg"
+		},
+		{
+			"id": 19,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "L'appel du néan",
+			"title_cover": "lappel_du_nean",
+			"first_cover": "lappel_du_nean_1.jpg",
+			"fourth_cover": "lappel_du_nean_4.jpg"
+		},
+		{
+			"id": 20,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "La promesse des ténèbres",
+			"title_cover": "la_promesse_des_tenebres",
+			"first_cover": "la_promesse_des_tenebres_1.jpg",
+			"fourth_cover": "la_promesse_des_tenebres_4.jpg"
+		},
+		{
+			"id": 21,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Le sang du temps",
+			"title_cover": "le_sang_du_temps",
+			"first_cover": "le_sang_du_temps_1.jpg",
+			"fourth_cover": "le_sang_du_temps_4.jpg"
+		},
+		{
+			"id": 22,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Le cri",
+			"title_cover": "le_cri",
+			"first_cover": "le_cri_1.jpg",
+			"fourth_cover": "le_cri_4.jpg"
+		},
+		{
+			"id": 23,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le labyrinthe - T1",
+			"title_cover": "le_labyrinthe_-_t1",
+			"first_cover": "le_labyrinthe_-_t1_1.jpg",
+			"fourth_cover": "le_labyrinthe_-_t1_4.jpg"
+		},
+		{
+			"id": 24,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le labyrinthe - T2 - La terre brulée",
+			"title_cover": "le_labyrinthe_-_t2_-_la_terre_brulee",
+			"first_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_1.jpg",
+			"fourth_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_4.jpg"
+		},
+		{
+			"id": 25,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le labyrinthe - T3 - Le remède mortel",
+			"title_cover": "le_labyrinthe_-_t3_-_le_remede_mortel",
+			"first_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_1.jpg",
+			"fourth_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_4.jpg"
+		},
+		{
+			"id": 26,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Avant la labyrinthe - L'ordre de tuer",
+			"title_cover": "avant_la_labyrinthe_-_lordre_de_tuer",
+			"first_cover": "avant_la_labyrinthe_-_lordre_de_tuer_1.jpg",
+			"fourth_cover": "avant_la_labyrinthe_-_lordre_de_tuer_4.jpg"
+		},
+		{
+			"id": 27,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Avant la labyrinthe - La braise",
+			"title_cover": "avant_la_labyrinthe_-_la_braise",
+			"first_cover": "avant_la_labyrinthe_-_la_braise_1.jpg",
+			"fourth_cover": "avant_la_labyrinthe_-_la_braise_4.jpg"
+		},
+		{
+			"id": 28,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Avant la labyrinthe - Le rivage des survivants",
+			"title_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants",
+			"first_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_1.jpg",
+			"fourth_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_4.jpg"
+		},
+		{
+			"id": 29,
+			"main_author": "JAMES DASHNER",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Avant la labyrinthe - Le destin de Newt",
+			"title_cover": "avant_la_labyrinthe_-_le_destin_de_newt",
+			"first_cover": "avant_la_labyrinthe_-_le_destin_de_newt_1.jpg",
+			"fourth_cover": "avant_la_labyrinthe_-_le_destin_de_newt_4.jpg"
+		},
+		{
+			"id": 30,
+			"main_author": "RICHARD PAUL EVANS",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le cercle des 17 - T1",
+			"title_cover": "le_cercle_des_17_-_t1",
+			"first_cover": "le_cercle_des_17_-_t1_1.jpg",
+			"fourth_cover": "le_cercle_des_17_-_t1_4.jpg"
+		},
+		{
+			"id": 31,
+			"main_author": "RICHARD PAUL EVANS",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le cercle des 17 - T2 - Dans les griffes de l'ennemi",
+			"title_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi",
+			"first_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_1.jpg",
+			"fourth_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_4.jpg"
+		},
+		{
+			"id": 32,
+			"main_author": "RICHARD PAUL EVANS",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le cercle des 17 - T3 - Bataille navale",
+			"title_cover": "le_cercle_des_17_-_t3_-_bataille_navale",
+			"first_cover": "le_cercle_des_17_-_t3_-_bataille_navale_1.jpg",
+			"fourth_cover": "le_cercle_des_17_-_t3_-_bataille_navale_4.jpg"
+		},
+		{
+			"id": 33,
+			"main_author": "RICHARD PAUL EVANS",
+			"secondary_author": "",
+			"editor": "PKJ",
+			"title": "Le cercle des 17 - T4 - A la recherche de Jade Dragon",
+			"title_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon",
+			"first_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_1.jpg",
+			"fourth_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_4.jpg"
+		},
+		{
+			"id": 34,
+			"main_author": "RICK YANCEY",
+			"secondary_author": "",
+			"editor": "Robert Laffont",
+			"title": "T1 - La 5ème vague",
+			"title_cover": "t1_-_la_5eme_vague",
+			"first_cover": "t1_-_la_5eme_vague_1.jpg",
+			"fourth_cover": "t1_-_la_5eme_vague_4.jpg"
+		},
+		{
+			"id": 35,
+			"main_author": "RICK YANCEY",
+			"secondary_author": "",
+			"editor": "Robert Laffont",
+			"title": "T2 - La mer infinie",
+			"title_cover": "t2_-_la_mer_infinie",
+			"first_cover": "t2_-_la_mer_infinie_1.jpg",
+			"fourth_cover": "t2_-_la_mer_infinie_4.jpg"
+		},
+		{
+			"id": 36,
+			"main_author": "RICK YANCEY",
+			"secondary_author": "",
+			"editor": "Robert Laffont",
+			"title": "T3 - La dernière étoile",
+			"title_cover": "t3_-_la_derniere_etoile",
+			"first_cover": "t3_-_la_derniere_etoile_1.jpg",
+			"fourth_cover": "t3_-_la_derniere_etoile_4.jpg"
+		},
+		{
+			"id": 37,
+			"main_author": "MICHAEL BYRNES",
+			"secondary_author": "",
+			"editor": "France Loisirs",
+			"title": "Le mystère de l'arche sacrée",
+			"title_cover": "le_mystere_de_larche_sacree",
+			"first_cover": "le_mystere_de_larche_sacree_1.jpg",
+			"fourth_cover": "le_mystere_de_larche_sacree_4.jpg"
+		},
+		{
+			"id": 38,
+			"main_author": "NICOLAS BEUGLET",
+			"secondary_author": "",
+			"editor": "Xo éditions",
+			"title": "L'ile du diable",
+			"title_cover": "lile_du_diable",
+			"first_cover": "lile_du_diable_1.jpg",
+			"fourth_cover": "lile_du_diable_4.jpg"
+		},
+		{
+			"id": 39,
+			"main_author": "SCOT SIGLER",
+			"secondary_author": "",
+			"editor": "Milady",
+			"title": "Infection",
+			"title_cover": "infection",
+			"first_cover": "infection_1.jpg",
+			"fourth_cover": "infection_4.jpg"
+		},
+		{
+			"id": 40,
+			"main_author": "SARAH CROSSAN",
+			"secondary_author": "",
+			"editor": "Bayard",
+			"title": "La loi du Dôme",
+			"title_cover": "la_loi_du_dome",
+			"first_cover": "la_loi_du_dome_1.jpg",
+			"fourth_cover": "la_loi_du_dome_4.jpg"
+		},
+		{
+			"id": 41,
+			"main_author": "KARINE MARTINS",
+			"secondary_author": "",
+			"editor": "Gallimard jeunesse",
+			"title": "Ceux qui ne peuvent pas mourir - T1 - La bête de porte-vent",
+			"title_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent",
+			"first_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_1.jpg",
+			"fourth_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_4.jpg"
+		},
+		{
+			"id": 42,
+			"main_author": "CYRIL CARRERE",
+			"secondary_author": "",
+			"editor": "Comos Polis",
+			"title": "Le quatrième rassemblement",
+			"title_cover": "le_quatrieme_rassemblement",
+			"first_cover": "le_quatrieme_rassemblement_1.jpg",
+			"fourth_cover": "le_quatrieme_rassemblement_4.jpg"
+		},
+		{
+			"id": 43,
+			"main_author": "MARTIN",
+			"secondary_author": "",
+			"editor": "Collection Tremplin",
+			"title": "Une simple vie",
+			"title_cover": "une_simple_vie",
+			"first_cover": "une_simple_vie_1.jpg",
+			"fourth_cover": "une_simple_vie_4.jpg"
+		},
+		{
+			"id": 44,
+			"main_author": "ROBERT MARKUS",
+			"secondary_author": "",
+			"editor": "Robert Markus",
+			"title": "Combattants sans passé - Legio Patria Nostra",
+			"title_cover": "combattants_sans_passe_-_legio_patria_nostra",
+			"first_cover": "combattants_sans_passe_-_legio_patria_nostra_1.jpg",
+			"fourth_cover": "combattants_sans_passe_-_legio_patria_nostra_4.jpg"
+		},
+		{
+			"id": 45,
+			"main_author": "RACHEL LEE",
+			"secondary_author": "",
+			"editor": "Editions Harlequin",
+			"title": "Le lien du mal",
+			"title_cover": "le_lien_du_mal",
+			"first_cover": "le_lien_du_mal_1.jpg",
+			"fourth_cover": "le_lien_du_mal_4.jpg"
+		},
+		{
+			"id": 46,
+			"main_author": "CEDRIC SIRE",
+			"secondary_author": "",
+			"editor": "France Loisirs",
+			"title": "Le premier sang",
+			"title_cover": "le_premier_sang",
+			"first_cover": "le_premier_sang_1.jpg",
+			"fourth_cover": "le_premier_sang_4.jpg"
+		},
+		{
+			"id": 47,
+			"main_author": "JEAN-LUC BIZIEN",
+			"secondary_author": "",
+			"editor": "Label Naos",
+			"title": "Les visiteurs",
+			"title_cover": "les_visiteurs",
+			"first_cover": "les_visiteurs_1.jpg",
+			"fourth_cover": "les_visiteurs_4.jpg"
+		},
+		{
+			"id": 48,
+			"main_author": "DANIELLE THIERY",
+			"secondary_author": "MARC WELINKSI",
+			"editor": "Anne Carrière",
+			"title": "Mourir ne suffit pas",
+			"title_cover": "mourir_ne_suffit_pas",
+			"first_cover": "mourir_ne_suffit_pas_1.jpg",
+			"fourth_cover": "mourir_ne_suffit_pas_4.jpg"
+		},
+		{
+			"id": 49,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Marabout",
+			"title": "Le jour des morts",
+			"title_cover": "le_jour_des_morts",
+			"first_cover": "le_jour_des_morts_1.jpg",
+			"fourth_cover": "le_jour_des_morts_4.jpg"
+		},
+		{
+			"id": 50,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Sans pitié ni remords",
+			"title_cover": "sans_pitie_ni_remords",
+			"first_cover": "sans_pitie_ni_remords_1.jpg",
+			"fourth_cover": "sans_pitie_ni_remords_4.jpg"
+		},
+		{
+			"id": 51,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "De cauchemar et de feu",
+			"title_cover": "de_cauchemar_et_de_feu",
+			"first_cover": "de_cauchemar_et_de_feu_1.jpg",
+			"fourth_cover": "de_cauchemar_et_de_feu_4.jpg"
+		},
+		{
+			"id": 52,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Dans la brume écarlate",
+			"title_cover": "dans_la_brume_ecarlate",
+			"first_cover": "dans_la_brume_ecarlate_1.jpg",
+			"fourth_cover": "dans_la_brume_ecarlate_4.jpg"
+		},
+		{
+			"id": 53,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "L'heure des fous",
+			"title_cover": "lheure_des_fous",
+			"first_cover": "lheure_des_fous_1.jpg",
+			"fourth_cover": "lheure_des_fous_4.jpg"
+		},
+		{
+			"id": 54,
+			"main_author": "CEDRIC SIRE",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Avec tes yeux",
+			"title_cover": "avec_tes_yeux",
+			"first_cover": "avec_tes_yeux_1.jpg",
+			"fourth_cover": "avec_tes_yeux_4.jpg"
+		},
+		{
+			"id": 55,
+			"main_author": "CEDRIC SIRE",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Le jeu de l'ombre",
+			"title_cover": "le_jeu_de_lombre",
+			"first_cover": "le_jeu_de_lombre_1.jpg",
+			"fourth_cover": "le_jeu_de_lombre_4.jpg"
+		},
+		{
+			"id": 56,
+			"main_author": "RENE MANZOR",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Dans les brumes du mal",
+			"title_cover": "dans_les_brumes_du_mal",
+			"first_cover": "dans_les_brumes_du_mal_1.jpg",
+			"fourth_cover": "dans_les_brumes_du_mal_4.jpg"
+		},
+		{
+			"id": 57,
+			"main_author": "CLAIRE FAVAN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Serre moi fort",
+			"title_cover": "serre_moi_fort",
+			"first_cover": "serre_moi_fort_1.jpg",
+			"fourth_cover": "serre_moi_fort_4.jpg"
+		},
+		{
+			"id": 58,
+			"main_author": "JACQUES EXPERT",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Deux gouttes d'eau",
+			"title_cover": "deux_gouttes_deau",
+			"first_cover": "deux_gouttes_deau_1.jpg",
+			"fourth_cover": "deux_gouttes_deau_4.jpg"
+		},
+		{
+			"id": 59,
+			"main_author": "IAN MANOOL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Heimaey",
+			"title_cover": "heimaey",
+			"first_cover": "heimaey_1.jpg",
+			"fourth_cover": "heimaey_4.jpg"
+		},
+		{
+			"id": 60,
+			"main_author": "NICOLAS BEUGLET",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Complot",
+			"title_cover": "complot",
+			"first_cover": "complot_1.jpg",
+			"fourth_cover": "complot_4.jpg"
+		},
+		{
+			"id": 61,
+			"main_author": "OLIVIER BAL",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "L'affaire Clara Miller",
+			"title_cover": "laffaire_clara_miller",
+			"first_cover": "laffaire_clara_miller_1.jpg",
+			"fourth_cover": "laffaire_clara_miller_4.jpg"
+		},
+		{
+			"id": 62,
+			"main_author": "MICHEL BUSSI",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Tout ce qui est sur terre doit périr",
+			"title_cover": "tout_ce_qui_est_sur_terre_doit_perir",
+			"first_cover": "tout_ce_qui_est_sur_terre_doit_perir_1.jpg",
+			"fourth_cover": "tout_ce_qui_est_sur_terre_doit_perir_4.jpg"
+		},
+		{
+			"id": 63,
+			"main_author": "BERNARD WERBER",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "L'empire des anges",
+			"title_cover": "lempire_des_anges",
+			"first_cover": "lempire_des_anges_1.jpg",
+			"fourth_cover": "lempire_des_anges_4.jpg"
+		},
+		{
+			"id": 64,
+			"main_author": "ANTHONY AUGUSTO",
+			"secondary_author": "",
+			"editor": "Editions de l'Opportun",
+			"title": "Chasseur de fantômes - Incroyable voyage au royaumes des ombres",
+			"title_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres",
+			"first_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_1.jpg",
+			"fourth_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_4.jpg"
+		},
+		{
+			"id": 65,
+			"main_author": "GUY ROGER DUVERT",
+			"secondary_author": "",
+			"editor": "Amazon",
+			"title": "Extinction",
+			"title_cover": "extinction",
+			"first_cover": "extinction_1.jpg",
+			"fourth_cover": "extinction_4.jpg"
+		},
+		{
+			"id": 66,
+			"main_author": "LAURENT OBERTONE",
+			"secondary_author": "",
+			"editor": "Magnus",
+			"title": "Guerilla - T1 - Le jour où tout s'embrase",
+			"title_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase",
+			"first_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_1.jpg",
+			"fourth_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_4.jpg"
+		},
+		{
+			"id": 67,
+			"main_author": "HUGH HOWEY",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Silo - T1",
+			"title_cover": "silo_-_t1",
+			"first_cover": "silo_-_t1_1.jpg",
+			"fourth_cover": "silo_-_t1_4.jpg"
+		},
+		{
+			"id": 68,
+			"main_author": "HUGH HOWEY",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Silo - T2 - Origines",
+			"title_cover": "silo_-_t2_-_origines",
+			"first_cover": "silo_-_t2_-_origines_1.jpg",
+			"fourth_cover": "silo_-_t2_-_origines_4.jpg"
+		},
+		{
+			"id": 69,
+			"main_author": "HUGH HOWEY",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Silo - T3 - Générations",
+			"title_cover": "silo_-_t3_-_generations",
+			"first_cover": "silo_-_t3_-_generations_1.jpg",
+			"fourth_cover": "silo_-_t3_-_generations_4.jpg"
+		},
+		{
+			"id": 70,
+			"main_author": "HARLAN COBEN",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Disparu à jamais",
+			"title_cover": "disparu_a_jamais",
+			"first_cover": "disparu_a_jamais_1.jpg",
+			"fourth_cover": "disparu_a_jamais_4.jpg"
+		},
+		{
+			"id": 71,
+			"main_author": "PIERRE BELLEMARE",
+			"secondary_author": "JEAN-MARC EPINOUX",
+			"editor": "Le livre de poche",
+			"title": "Ils ont vu l'au-delà - les aventuriers du Xxè siècle",
+			"title_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle",
+			"first_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_1.jpg",
+			"fourth_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_4.jpg"
+		},
+		{
+			"id": 72,
+			"main_author": "NICO AUGUSTO",
+			"secondary_author": "",
+			"editor": "Blossom",
+			"title": "Ovni - Ils nous ont menti",
+			"title_cover": "ovni_-_ils_nous_ont_menti",
+			"first_cover": "ovni_-_ils_nous_ont_menti_1.jpg",
+			"fourth_cover": "ovni_-_ils_nous_ont_menti_4.jpg"
+		},
+		{
+			"id": 73,
+			"main_author": "NICO AUGUSTO",
+			"secondary_author": "",
+			"editor": "Amazon",
+			"title": "Les saisons du paradis",
+			"title_cover": "les_saisons_du_paradis",
+			"first_cover": "les_saisons_du_paradis_1.jpg",
+			"fourth_cover": "les_saisons_du_paradis_4.jpg"
+		},
+		{
+			"id": 74,
+			"main_author": "OLIVIER NOREK",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Code 93",
+			"title_cover": "code_93",
+			"first_cover": "code_93_1.jpg",
+			"fourth_cover": "code_93_4.jpg"
+		},
+		{
+			"id": 75,
+			"main_author": "OLIVIER NOREK",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Sur tensions",
+			"title_cover": "sur_tensions",
+			"first_cover": "sur_tensions_1.jpg",
+			"fourth_cover": "sur_tensions_4.jpg"
+		},
+		{
+			"id": 76,
+			"main_author": "OLIVIER NOREK",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Territoires",
+			"title_cover": "territoires",
+			"first_cover": "territoires_1.jpg",
+			"fourth_cover": "territoires_4.jpg"
+		},
+		{
+			"id": 77,
+			"main_author": "OLIVIER NOREK",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Entre deux mondes",
+			"title_cover": "entre_deux_mondes",
+			"first_cover": "entre_deux_mondes_1.jpg",
+			"fourth_cover": "entre_deux_mondes_4.jpg"
+		},
+		{
+			"id": 78,
+			"main_author": "MAXIME CHATTAN",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "La constance de predateur",
+			"title_cover": "la_constance_de_predateur",
+			"first_cover": "la_constance_de_predateur_1.jpg",
+			"fourth_cover": "la_constance_de_predateur_4.jpg"
+		},
+		{
+			"id": 79,
+			"main_author": "MAXIME LLEDO",
+			"secondary_author": "",
+			"editor": "Fayard",
+			"title": "Génération fracassée",
+			"title_cover": "generation_fracassee",
+			"first_cover": "generation_fracassee_1.jpg",
+			"fourth_cover": "generation_fracassee_4.jpg"
+		},
+		{
+			"id": 80,
+			"main_author": "BERNARD WERBER",
+			"secondary_author": "",
+			"editor": "Albin Michel",
+			"title": "Troisième humanité",
+			"title_cover": "troisieme_humanite",
+			"first_cover": "troisieme_humanite_1.jpg",
+			"fourth_cover": "troisieme_humanite_4.jpg"
+		},
+		{
+			"id": 81,
+			"main_author": "BERNARD WERBER",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Sa majesté des chats",
+			"title_cover": "sa_majeste_des_chats",
+			"first_cover": "sa_majeste_des_chats_1.jpg",
+			"fourth_cover": "sa_majeste_des_chats_4.jpg"
+		},
+		{
+			"id": 82,
+			"main_author": "BERNARD WERBER",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "La planète des chats",
+			"title_cover": "la_planete_des_chats",
+			"first_cover": "la_planete_des_chats_1.jpg",
+			"fourth_cover": "la_planete_des_chats_4.jpg"
+		},
+		{
+			"id": 83,
+			"main_author": "PIERRE BELLEMARE",
+			"secondary_author": "JEAN-FRANCOIS NAHMIAS",
+			"editor": "Le livre de poche",
+			"title": "Les tueurs diaboliques",
+			"title_cover": "les_tueurs_diaboliques",
+			"first_cover": "les_tueurs_diaboliques_1.jpg",
+			"fourth_cover": "les_tueurs_diaboliques_4.jpg"
+		},
+		{
+			"id": 84,
+			"main_author": "BERNARD WERBER",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Demain les chats",
+			"title_cover": "demain_les_chats",
+			"first_cover": "demain_les_chats_1.jpg",
+			"fourth_cover": "demain_les_chats_4.jpg"
+		},
+		{
+			"id": 85,
+			"main_author": "NIKO TACKIAM",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Toxique",
+			"title_cover": "toxique",
+			"first_cover": "toxique_1.jpg",
+			"fourth_cover": "toxique_4.jpg"
+		},
+		{
+			"id": 86,
+			"main_author": "ISAAC ASIMOV",
+			"secondary_author": "",
+			"editor": "Société nouvelle Firmin-didot",
+			"title": "Azazel",
+			"title_cover": "azazel",
+			"first_cover": "azazel_1.jpg",
+			"fourth_cover": "azazel_4.jpg"
+		},
+		{
+			"id": 87,
+			"main_author": "PATRICIA CORNWELL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Post Mortem",
+			"title_cover": "post_mortem",
+			"first_cover": "post_mortem_1.jpg",
+			"fourth_cover": "post_mortem_4.jpg"
+		},
+		{
+			"id": 88,
+			"main_author": "ZOLA",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Pot-Bouille",
+			"title_cover": "pot-bouille",
+			"first_cover": "pot-bouille_1.jpg",
+			"fourth_cover": "pot-bouille_4.jpg"
+		},
+		{
+			"id": 89,
+			"main_author": "ERICH MARIA REMARQUE",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "A l'ouest rien de nouveau",
+			"title_cover": "a_louest_rien_de_nouveau",
+			"first_cover": "a_louest_rien_de_nouveau_1.jpg",
+			"fourth_cover": "a_louest_rien_de_nouveau_4.jpg"
+		},
+		{
+			"id": 90,
+			"main_author": "STEINBECK",
+			"secondary_author": "",
+			"editor": "Folio",
+			"title": "Les raisins de la colère",
+			"title_cover": "les_raisins_de_la_colere",
+			"first_cover": "les_raisins_de_la_colere_1.jpg",
+			"fourth_cover": "les_raisins_de_la_colere_4.jpg"
+		},
+		{
+			"id": 91,
+			"main_author": "FIONA BARTON",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "La coupure",
+			"title_cover": "la_coupure",
+			"first_cover": "la_coupure_1.jpg",
+			"fourth_cover": "la_coupure_4.jpg"
+		},
+		{
+			"id": 92,
+			"main_author": "PATRICIA CORNWELL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Une enquête de Kay Scarpetta - Une peine d'exception",
+			"title_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception",
+			"first_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_1.jpg",
+			"fourth_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_4.jpg"
+		},
+		{
+			"id": 93,
+			"main_author": "PATRICIA CORNWELL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Une enquête de Kay Scarpetta - Mémoires mortes",
+			"title_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes",
+			"first_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_1.jpg",
+			"fourth_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_4.jpg"
+		},
+		{
+			"id": 94,
+			"main_author": "PATRICIA CORNWELL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Une enquête de Kay Scarpetta - Sans raison",
+			"title_cover": "une_enquete_de_kay_scarpetta_-_sans_raison",
+			"first_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_1.jpg",
+			"fourth_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_4.jpg"
+		},
+		{
+			"id": 95,
+			"main_author": "CHRISTOPHE MARTINOLLI",
+			"secondary_author": "",
+			"editor": "Dystopie",
+			"title": "Dernier départ après l'éffondrement",
+			"title_cover": "dernier_depart_apres_leffondrement",
+			"first_cover": "dernier_depart_apres_leffondrement_1.jpg",
+			"fourth_cover": "dernier_depart_apres_leffondrement_4.jpg"
+		},
+		{
+			"id": 96,
+			"main_author": "CHRISTOPHE MARTINOLLI",
+			"secondary_author": "",
+			"editor": "Dystopie",
+			"title": "Magonia",
+			"title_cover": "magonia",
+			"first_cover": "magonia_1.jpg",
+			"fourth_cover": "magonia_4.jpg"
+		},
+		{
+			"id": 97,
+			"main_author": "CHRISTOPHE MARTINOLLI",
+			"secondary_author": "",
+			"editor": "Dystopie",
+			"title": "Fin des temps",
+			"title_cover": "fin_des_temps",
+			"first_cover": "fin_des_temps_1.jpg",
+			"fourth_cover": "fin_des_temps_4.jpg"
+		},
+		{
+			"id": 98,
+			"main_author": "FRANCK THILLIEZ",
+			"secondary_author": "",
+			"editor": "Fleuve Noir",
+			"title": "Il était deux fois",
+			"title_cover": "il_etait_deux_fois",
+			"first_cover": "il_etait_deux_fois_1.jpg",
+			"fourth_cover": "il_etait_deux_fois_4.jpg"
+		},
+		{
+			"id": 99,
+			"main_author": "HENRI LOEVENBRUCK",
+			"secondary_author": "",
+			"editor": "J'ai Lu",
+			"title": "Le mystère Fulcanelli",
+			"title_cover": "le_mystere_fulcanelli",
+			"first_cover": "le_mystere_fulcanelli_1.jpg",
+			"fourth_cover": "le_mystere_fulcanelli_4.jpg"
+		},
+		{
+			"id": 100,
+			"main_author": "MORGANE MONTORIOL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Taches rousses",
+			"title_cover": "taches_rousses",
+			"first_cover": "taches_rousses_1.jpg",
+			"fourth_cover": "taches_rousses_4.jpg"
+		},
+		{
+			"id": 101,
+			"main_author": "OLIVIER BAL",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "Le maitre des limbes",
+			"title_cover": "le_maitre_des_limbes",
+			"first_cover": "le_maitre_des_limbes_1.jpg",
+			"fourth_cover": "le_maitre_des_limbes_4.jpg"
+		},
+		{
+			"id": 102,
+			"main_author": "STEPHEN KING",
+			"secondary_author": "",
+			"editor": "",
+			"title": "La part des ténèbres",
+			"title_cover": "la_part_des_tenebres",
+			"first_cover": "la_part_des_tenebres_1.jpg",
+			"fourth_cover": "la_part_des_tenebres_4.jpg"
+		},
+		{
+			"id": 103,
+			"main_author": "STEPHEN KING",
+			"secondary_author": "",
+			"editor": "",
+			"title": "L'institut",
+			"title_cover": "linstitut",
+			"first_cover": "linstitut_1.jpg",
+			"fourth_cover": "linstitut_4.jpg"
+		},
+		{
+			"id": 104,
+			"main_author": "STEPHEN KING",
+			"secondary_author": "OWEN KING",
+			"editor": "Albin Michel",
+			"title": "Sleeping Beauties",
+			"title_cover": "sleeping_beauties",
+			"first_cover": "sleeping_beauties_1.jpg",
+			"fourth_cover": "sleeping_beauties_4.jpg"
+		},
+		{
+			"id": 105,
+			"main_author": "ZOLA",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Germinal",
+			"title_cover": "germinal",
+			"first_cover": "germinal_1.jpg",
+			"fourth_cover": "germinal_4.jpg"
+		},
+		{
+			"id": 106,
+			"main_author": "ZOLA",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Au bonheur des dames",
+			"title_cover": "au_bonheur_des_dames",
+			"first_cover": "au_bonheur_des_dames_1.jpg",
+			"fourth_cover": "au_bonheur_des_dames_4.jpg"
+		},
+		{
+			"id": 107,
+			"main_author": "ROULETABILLE",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Le parfun de la dame en noir",
+			"title_cover": "le_parfun_de_la_dame_en_noir",
+			"first_cover": "le_parfun_de_la_dame_en_noir_1.jpg",
+			"fourth_cover": "le_parfun_de_la_dame_en_noir_4.jpg"
+		},
+		{
+			"id": 108,
+			"main_author": "ROULETABILLE",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Le mystère de la chambre jaune",
+			"title_cover": "le_mystere_de_la_chambre_jaune",
+			"first_cover": "le_mystere_de_la_chambre_jaune_1.jpg",
+			"fourth_cover": "le_mystere_de_la_chambre_jaune_4.jpg"
+		},
+		{
+			"id": 109,
+			"main_author": "FRED VARGAS",
+			"secondary_author": "",
+			"editor": "J'ai Lu",
+			"title": "Debut les morts",
+			"title_cover": "debut_les_morts",
+			"first_cover": "debut_les_morts_1.jpg",
+			"fourth_cover": "debut_les_morts_4.jpg"
+		},
+		{
+			"id": 110,
+			"main_author": "VERCORS",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Le silence de la mer",
+			"title_cover": "le_silence_de_la_mer",
+			"first_cover": "le_silence_de_la_mer_1.jpg",
+			"fourth_cover": "le_silence_de_la_mer_4.jpg"
+		},
+		{
+			"id": 111,
+			"main_author": "MARY HIGGINS CLARK",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Deux petites filles en bleu",
+			"title_cover": "deux_petites_filles_en_bleu",
+			"first_cover": "deux_petites_filles_en_bleu_1.jpg",
+			"fourth_cover": "deux_petites_filles_en_bleu_4.jpg"
+		},
+		{
+			"id": 112,
+			"main_author": "MARY HIGGINS CLARK",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Rien ne vaut la douceur du foyer",
+			"title_cover": "rien_ne_vaut_la_douceur_du_foyer",
+			"first_cover": "rien_ne_vaut_la_douceur_du_foyer_1.jpg",
+			"fourth_cover": "rien_ne_vaut_la_douceur_du_foyer_4.jpg"
+		},
+		{
+			"id": 113,
+			"main_author": "MARY HIGGINS CLARK",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Un jour tu verras...",
+			"title_cover": "un_jour_tu_verras",
+			"first_cover": "un_jour_tu_verras_1.jpg",
+			"fourth_cover": "un_jour_tu_verras_4.jpg"
+		},
+		{
+			"id": 114,
+			"main_author": "MARY HIGGINS CLARK",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Je t'ai donné mon cœur",
+			"title_cover": "je_tai_donne_mon_cœur",
+			"first_cover": "je_tai_donne_mon_cœur_1.jpg",
+			"fourth_cover": "je_tai_donne_mon_cœur_4.jpg"
+		},
+		{
+			"id": 115,
+			"main_author": "MARY HIGGINS CLARK",
+			"secondary_author": "ALAFAIR BURKE",
+			"editor": "Le livre de poche",
+			"title": "La reine du bal",
+			"title_cover": "la_reine_du_bal",
+			"first_cover": "la_reine_du_bal_1.jpg",
+			"fourth_cover": "la_reine_du_bal_4.jpg"
+		},
+		{
+			"id": 116,
+			"main_author": "JOANN ROSS",
+			"secondary_author": "",
+			"editor": "Amazon",
+			"title": "La femme de l'ombre",
+			"title_cover": "la_femme_de_lombre",
+			"first_cover": "la_femme_de_lombre_1.jpg",
+			"fourth_cover": "la_femme_de_lombre_4.jpg"
+		},
+		{
+			"id": 117,
+			"main_author": "OLIVIER BOWDEN",
+			"secondary_author": "",
+			"editor": "Milady",
+			"title": "Assassin's Creed",
+			"title_cover": "assassins_creed",
+			"first_cover": "assassins_creed_1.jpg",
+			"fourth_cover": "assassins_creed_4.jpg"
+		},
+		{
+			"id": 118,
+			"main_author": "JULIEN CENTAURE",
+			"secondary_author": "",
+			"editor": "Amazon",
+			"title": "Les nettoyeurs",
+			"title_cover": "les_nettoyeurs",
+			"first_cover": "les_nettoyeurs_1.jpg",
+			"fourth_cover": "les_nettoyeurs_4.jpg"
+		},
+		{
+			"id": 119,
+			"main_author": "CHRISTOPHE MARTINOLLI",
+			"secondary_author": "",
+			"editor": "Magonia Consortium",
+			"title": "Après l'effondrement - L'intégrale",
+			"title_cover": "apres_leffondrement_-_lintegrale",
+			"first_cover": "apres_leffondrement_-_lintegrale_1.jpg",
+			"fourth_cover": "apres_leffondrement_-_lintegrale_4.jpg"
+		},
+		{
+			"id": 120,
+			"main_author": "M.A. ROTHMAN",
+			"secondary_author": "",
+			"editor": "Primordial Press",
+			"title": "Menace primale - L'éxode - Livre I",
+			"title_cover": "menace_primale_-_lexode_-_livre_i",
+			"first_cover": "menace_primale_-_lexode_-_livre_i_1.jpg",
+			"fourth_cover": "menace_primale_-_lexode_-_livre_i_4.jpg"
+		}
+	],
+	"auteurs": [
+		{
+			"id": "1",
+			"author": "ALAFAIR BURKE"
+		},
+		{
+			"id": "2",
+			"author": "ANTHONY AUGUSTO"
+		},
+		{
+			"id": "3",
+			"author": "BERNARD WERBER"
+		},
+		{
+			"id": "4",
+			"author": "CEDRIC SIRE"
+		},
+		{
+			"id": "5",
+			"author": "CHRISTOPHE MARTINOLLI"
+		},
+		{
+			"id": "6",
+			"author": "CLAIRE FAVAN"
+		},
+		{
+			"id": "7",
+			"author": "CYRIL CARRERE"
+		},
+		{
+			"id": "8",
+			"author": "DANIELLE THIERY"
+		},
+		{
+			"id": "9",
+			"author": "ERICH MARIA REMARQUE"
+		},
+		{
+			"id": "10",
+			"author": "FIONA BARTON"
+		},
+		{
+			"id": "11",
+			"author": "FRANCK THILLIEZ"
+		},
+		{
+			"id": "12",
+			"author": "FRED VARGAS"
+		},
+		{
+			"id": "13",
+			"author": "GUY ROGER DUVERT"
+		},
+		{
+			"id": "14",
+			"author": "HARLAN COBEN"
+		},
+		{
+			"id": "15",
+			"author": "HENRI LOEVENBRUCK"
+		},
+		{
+			"id": "16",
+			"author": "HUGH HOWEY"
+		},
+		{
+			"id": "17",
+			"author": "IAN MANOOL"
+		},
+		{
+			"id": "18",
+			"author": "ISAAC ASIMOV"
+		},
+		{
+			"id": "19",
+			"author": "JACQUES EXPERT"
+		},
+		{
+			"id": "20",
+			"author": "JAMES DASHNER"
+		},
+		{
+			"id": "21",
+			"author": "JEAN-FRANCOIS NAHMIAS"
+		},
+		{
+			"id": "22",
+			"author": "JEAN-LUC BIZIEN"
+		},
+		{
+			"id": "23",
+			"author": "JEAN-MARC EPINOUX"
+		},
+		{
+			"id": "24",
+			"author": "JOANN ROSS"
+		},
+		{
+			"id": "25",
+			"author": "JULIEN CENTAURE"
+		},
+		{
+			"id": "26",
+			"author": "KARINE MARTINS"
+		},
+		{
+			"id": "27",
+			"author": "LAURENT OBERTONE"
+		},
+		{
+			"id": "28",
+			"author": "M.A. ROTHMAN"
+		},
+		{
+			"id": "29",
+			"author": "MARC WELINKSI"
+		},
+		{
+			"id": "30",
+			"author": "MARTIN"
+		},
+		{
+			"id": "31",
+			"author": "MARY HIGGINS CLARK"
+		},
+		{
+			"id": "32",
+			"author": "MAXIME CHATTAN"
+		},
+		{
+			"id": "33",
+			"author": "MAXIME LLEDO"
+		},
+		{
+			"id": "34",
+			"author": "MICHAEL BYRNES"
+		},
+		{
+			"id": "35",
+			"author": "MICHEL BUSSI"
+		},
+		{
+			"id": "36",
+			"author": "MORGANE MONTORIOL"
+		},
+		{
+			"id": "37",
+			"author": "NICO AUGUSTO"
+		},
+		{
+			"id": "38",
+			"author": "NICOLAS BEUGLET"
+		},
+		{
+			"id": "39",
+			"author": "NICOLAS LEBEL"
+		},
+		{
+			"id": "40",
+			"author": "NIKO TACKIAM"
+		},
+		{
+			"id": "41",
+			"author": "OLIVIER BAL"
+		},
+		{
+			"id": "42",
+			"author": "OLIVIER BOWDEN"
+		},
+		{
+			"id": "43",
+			"author": "OLIVIER NOREK"
+		},
+		{
+			"id": "44",
+			"author": "OWEN KING"
+		},
+		{
+			"id": "45",
+			"author": "PATRICIA CORNWELL"
+		},
+		{
+			"id": "46",
+			"author": "PIERRE BELLEMARE"
+		},
+		{
+			"id": "47",
+			"author": "RACHEL LEE"
+		},
+		{
+			"id": "48",
+			"author": "RENE MANZOR"
+		},
+		{
+			"id": "49",
+			"author": "RICHARD PAUL EVANS"
+		},
+		{
+			"id": "50",
+			"author": "RICK YANCEY"
+		},
+		{
+			"id": "51",
+			"author": "ROBERT MARKUS"
+		},
+		{
+			"id": "52",
+			"author": "ROULETABILLE"
+		},
+		{
+			"id": "53",
+			"author": "SARAH CROSSAN"
+		},
+		{
+			"id": "54",
+			"author": "SCOT SIGLER"
+		},
+		{
+			"id": "55",
+			"author": "STEINBECK"
+		},
+		{
+			"id": "56",
+			"author": "STEPHEN KING"
+		},
+		{
+			"id": "57",
+			"author": "VERCORS"
+		},
+		{
+			"id": "58",
+			"author": "WILLIAM R. FORSTCHEN"
+		},
+		{
+			"id": "59",
+			"author": "ZOLA"
+		}
+	],
+	"editeurs": [
+		{
+			"id": "1",
+			"editor": "Albin Michel"
+		},
+		{
+			"id": "2",
+			"editor": "Amazon"
+		},
+		{
+			"id": "3",
+			"editor": "Anne Carrière"
+		},
+		{
+			"id": "4",
+			"editor": "Bayard"
+		},
+		{
+			"id": "5",
+			"editor": "Blossom"
+		},
+		{
+			"id": "6",
+			"editor": "Collection Tremplin"
+		},
+		{
+			"id": "7",
+			"editor": "Comos Polis"
+		},
+		{
+			"id": "8",
+			"editor": "Dystopie"
+		},
+		{
+			"id": "9",
+			"editor": "Editions de l'Opportun"
+		},
+		{
+			"id": "10",
+			"editor": "Editions Harlequin"
+		},
+		{
+			"id": "11",
+			"editor": "Fayard"
+		},
+		{
+			"id": "12",
+			"editor": "Fleuve Noir"
+		},
+		{
+			"id": "13",
+			"editor": "Folio"
+		},
+		{
+			"id": "14",
+			"editor": "France Loisirs"
+		},
+		{
+			"id": "15",
+			"editor": "Gallimard jeunesse"
+		},
+		{
+			"id": "16",
+			"editor": "Ixelles éditions"
+		},
+		{
+			"id": "17",
+			"editor": "J'ai Lu"
+		},
+		{
+			"id": "18",
+			"editor": "Label Naos"
+		},
+		{
+			"id": "19",
+			"editor": "Le livre de poche"
+		},
+		{
+			"id": "20",
+			"editor": "Magnus"
+		},
+		{
+			"id": "21",
+			"editor": "Magonia Consortium"
+		},
+		{
+			"id": "22",
+			"editor": "Marabout"
+		},
+		{
+			"id": "23",
+			"editor": "Milady"
+		},
+		{
+			"id": "24",
+			"editor": "PKJ"
+		},
+		{
+			"id": "25",
+			"editor": "Pocket"
+		},
+		{
+			"id": "26",
+			"editor": "Primordial Press"
+		},
+		{
+			"id": "27",
+			"editor": "Robert Laffont"
+		},
+		{
+			"id": "28",
+			"editor": "Robert Markus"
+		},
+		{
+			"id": "29",
+			"editor": "Société nouvelle Firmin-didot"
+		},
+		{
+			"id": "30",
+			"editor": "Xo éditions"
+		}
+	]
 }
-
