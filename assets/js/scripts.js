@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const containerList = document.querySelector("#list");
   const nbBookTop = document.querySelector(".nbBookTop");
   const nbBookBottom = document.querySelector(".nbBookBottom");
-  const selectAuthor = document.querySelector("#select_author");
-  const selectEditor = document.querySelector("#select_editor");
+  const selectAuthor = document.getElementById("select_author");
+  const selectEditor = document.getElementById("select_editor");
 
   containerList.innerHTML = "";
 
@@ -15,6 +15,14 @@ document.addEventListener("DOMContentLoaded", function () {
   let nbBook = 0;
   let idBook = "";
   let dataListe = "";
+
+  // Initialisation des variables des filtres au premier affichage du site
+  if (document.getElementById("select_author")) {
+    document.getElementById("select_author").value = "tout";
+  }
+  if (document.getElementById("select_editor")) {
+    document.getElementById("select_editor").value = "tout";
+  }
 
   var myHeaders = new Headers();
 
@@ -98,7 +106,7 @@ document.addEventListener("DOMContentLoaded", function () {
           console.log(e.target.nextElementSibling);
           console.log(e.target.nextElementSibling.classList);
           e.target.previousElementSibling.classList.remove("hidden");
-        }       
+        }
       });
 
       // Détection quand on agit sur le filtre AUTEUR
