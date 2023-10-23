@@ -8,7 +8,8 @@
 			"title": "Une seconde après",
 			"title_cover": "une_seconde_apres",
 			"first_cover": "une_seconde_apres_1.jpg",
-			"fourth_cover": "une_seconde_apres_4.jpg"
+			"fourth_cover": "une_seconde_apres_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 2,
@@ -18,7 +19,8 @@
 			"title": "Sans défense",
 			"title_cover": "sans_defense",
 			"first_cover": "sans_defense_1.jpg",
-			"fourth_cover": "sans_defense_4.jpg"
+			"fourth_cover": "sans_defense_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 3,
@@ -28,7 +30,8 @@
 			"title": "Le signal",
 			"title_cover": "le_signal",
 			"first_cover": "le_signal_1.jpg",
-			"fourth_cover": "le_signal_4.jpg"
+			"fourth_cover": "le_signal_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 4,
@@ -38,7 +41,8 @@
 			"title": "La conjuration primitive",
 			"title_cover": "la_conjuration_primitive",
 			"first_cover": "la_conjuration_primitive_1.jpg",
-			"fourth_cover": "la_conjuration_primitive_4.jpg"
+			"fourth_cover": "la_conjuration_primitive_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 5,
@@ -48,7 +52,8 @@
 			"title": "Léviatemps",
 			"title_cover": "leviatemps",
 			"first_cover": "leviatemps_1.jpg",
-			"fourth_cover": "leviatemps_4.jpg"
+			"fourth_cover": "leviatemps_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 6,
@@ -58,7 +63,8 @@
 			"title": "Autre monde - T1 - L'alliance des trois",
 			"title_cover": "autre_monde_-_t1_-_lalliance_des_trois",
 			"first_cover": "autre_monde_-_t1_-_lalliance_des_trois_1.jpg",
-			"fourth_cover": "autre_monde_-_t1_-_lalliance_des_trois_4.jpg"
+			"fourth_cover": "autre_monde_-_t1_-_lalliance_des_trois_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 7,
@@ -68,7 +74,8 @@
 			"title": "Autre monde - T2 - Maronce",
 			"title_cover": "autre_monde_-_t2_-_maronce",
 			"first_cover": "autre_monde_-_t2_-_maronce_1.jpg",
-			"fourth_cover": "autre_monde_-_t2_-_maronce_4.jpg"
+			"fourth_cover": "autre_monde_-_t2_-_maronce_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 8,
@@ -78,7 +85,8 @@
 			"title": "Autre monde - T3 - Le coeur de la terre",
 			"title_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre",
 			"first_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_1.jpg",
-			"fourth_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_4.jpg"
+			"fourth_cover": "autre_monde_-_t3_-_le_coeur_de_la_terre_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 9,
@@ -88,7 +96,8 @@
 			"title": "Autre monde - T4 - Entropia",
 			"title_cover": "autre_monde_-_t4_-_entropia",
 			"first_cover": "autre_monde_-_t4_-_entropia_1.jpg",
-			"fourth_cover": "autre_monde_-_t4_-_entropia_4.jpg"
+			"fourth_cover": "autre_monde_-_t4_-_entropia_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 10,
@@ -98,7 +107,8 @@
 			"title": "Autre monde - T5 - Oz",
 			"title_cover": "autre_monde_-_t5_-_oz",
 			"first_cover": "autre_monde_-_t5_-_oz_1.jpg",
-			"fourth_cover": "autre_monde_-_t5_-_oz_4.jpg"
+			"fourth_cover": "autre_monde_-_t5_-_oz_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 11,
@@ -108,7 +118,8 @@
 			"title": "Autre monde - T6 - Neverland",
 			"title_cover": "autre_monde_-_t6_-_neverland",
 			"first_cover": "autre_monde_-_t6_-_neverland_1.jpg",
-			"fourth_cover": "autre_monde_-_t6_-_neverland_4.jpg"
+			"fourth_cover": "autre_monde_-_t6_-_neverland_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 12,
@@ -118,7 +129,8 @@
 			"title": "Autre monde - T7 - Genèse",
 			"title_cover": "autre_monde_-_t7_-_genese",
 			"first_cover": "autre_monde_-_t7_-_genese_1.jpg",
-			"fourth_cover": "autre_monde_-_t7_-_genese_4.jpg"
+			"fourth_cover": "autre_monde_-_t7_-_genese_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 13,
@@ -128,7 +140,8 @@
 			"title": "L'illusion",
 			"title_cover": "lillusion",
 			"first_cover": "lillusion_1.jpg",
-			"fourth_cover": "lillusion_4.jpg"
+			"fourth_cover": "lillusion_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 14,
@@ -138,7 +151,8 @@
 			"title": "In Tenebris",
 			"title_cover": "in_tenebris",
 			"first_cover": "in_tenebris_1.jpg",
-			"fourth_cover": "in_tenebris_4.jpg"
+			"fourth_cover": "in_tenebris_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 15,
@@ -148,7 +162,8 @@
 			"title": "Maléfices",
 			"title_cover": "malefices",
 			"first_cover": "malefices_1.jpg",
-			"fourth_cover": "malefices_4.jpg"
+			"fourth_cover": "malefices_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 16,
@@ -158,7 +173,8 @@
 			"title": "Le 5ème règne",
 			"title_cover": "le_5eme_regne",
 			"first_cover": "le_5eme_regne_1.jpg",
-			"fourth_cover": "le_5eme_regne_4.jpg"
+			"fourth_cover": "le_5eme_regne_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 17,
@@ -168,7 +184,8 @@
 			"title": "L'âme du mal",
 			"title_cover": "lame_du_mal",
 			"first_cover": "lame_du_mal_1.jpg",
-			"fourth_cover": "lame_du_mal_4.jpg"
+			"fourth_cover": "lame_du_mal_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 18,
@@ -178,7 +195,8 @@
 			"title": "Le requiem des abysses",
 			"title_cover": "le_requiem_des_abysses",
 			"first_cover": "le_requiem_des_abysses_1.jpg",
-			"fourth_cover": "le_requiem_des_abysses_4.jpg"
+			"fourth_cover": "le_requiem_des_abysses_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 19,
@@ -188,7 +206,8 @@
 			"title": "L'appel du néan",
 			"title_cover": "lappel_du_nean",
 			"first_cover": "lappel_du_nean_1.jpg",
-			"fourth_cover": "lappel_du_nean_4.jpg"
+			"fourth_cover": "lappel_du_nean_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 20,
@@ -198,7 +217,8 @@
 			"title": "La promesse des ténèbres",
 			"title_cover": "la_promesse_des_tenebres",
 			"first_cover": "la_promesse_des_tenebres_1.jpg",
-			"fourth_cover": "la_promesse_des_tenebres_4.jpg"
+			"fourth_cover": "la_promesse_des_tenebres_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 21,
@@ -208,7 +228,8 @@
 			"title": "Le sang du temps",
 			"title_cover": "le_sang_du_temps",
 			"first_cover": "le_sang_du_temps_1.jpg",
-			"fourth_cover": "le_sang_du_temps_4.jpg"
+			"fourth_cover": "le_sang_du_temps_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 22,
@@ -218,7 +239,8 @@
 			"title": "Le cri",
 			"title_cover": "le_cri",
 			"first_cover": "le_cri_1.jpg",
-			"fourth_cover": "le_cri_4.jpg"
+			"fourth_cover": "le_cri_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 23,
@@ -228,7 +250,8 @@
 			"title": "Le labyrinthe - T1",
 			"title_cover": "le_labyrinthe_-_t1",
 			"first_cover": "le_labyrinthe_-_t1_1.jpg",
-			"fourth_cover": "le_labyrinthe_-_t1_4.jpg"
+			"fourth_cover": "le_labyrinthe_-_t1_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 24,
@@ -238,7 +261,8 @@
 			"title": "Le labyrinthe - T2 - La terre brulée",
 			"title_cover": "le_labyrinthe_-_t2_-_la_terre_brulee",
 			"first_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_1.jpg",
-			"fourth_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_4.jpg"
+			"fourth_cover": "le_labyrinthe_-_t2_-_la_terre_brulee_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 25,
@@ -248,7 +272,8 @@
 			"title": "Le labyrinthe - T3 - Le remède mortel",
 			"title_cover": "le_labyrinthe_-_t3_-_le_remede_mortel",
 			"first_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_1.jpg",
-			"fourth_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_4.jpg"
+			"fourth_cover": "le_labyrinthe_-_t3_-_le_remede_mortel_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 26,
@@ -258,7 +283,8 @@
 			"title": "Avant la labyrinthe - L'ordre de tuer",
 			"title_cover": "avant_la_labyrinthe_-_lordre_de_tuer",
 			"first_cover": "avant_la_labyrinthe_-_lordre_de_tuer_1.jpg",
-			"fourth_cover": "avant_la_labyrinthe_-_lordre_de_tuer_4.jpg"
+			"fourth_cover": "avant_la_labyrinthe_-_lordre_de_tuer_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 27,
@@ -268,7 +294,8 @@
 			"title": "Avant la labyrinthe - La braise",
 			"title_cover": "avant_la_labyrinthe_-_la_braise",
 			"first_cover": "avant_la_labyrinthe_-_la_braise_1.jpg",
-			"fourth_cover": "avant_la_labyrinthe_-_la_braise_4.jpg"
+			"fourth_cover": "avant_la_labyrinthe_-_la_braise_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 28,
@@ -278,7 +305,8 @@
 			"title": "Avant la labyrinthe - Le rivage des survivants",
 			"title_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants",
 			"first_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_1.jpg",
-			"fourth_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_4.jpg"
+			"fourth_cover": "avant_la_labyrinthe_-_le_rivage_des_survivants_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 29,
@@ -288,7 +316,8 @@
 			"title": "Avant la labyrinthe - Le destin de Newt",
 			"title_cover": "avant_la_labyrinthe_-_le_destin_de_newt",
 			"first_cover": "avant_la_labyrinthe_-_le_destin_de_newt_1.jpg",
-			"fourth_cover": "avant_la_labyrinthe_-_le_destin_de_newt_4.jpg"
+			"fourth_cover": "avant_la_labyrinthe_-_le_destin_de_newt_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 30,
@@ -298,7 +327,8 @@
 			"title": "Le cercle des 17 - T1",
 			"title_cover": "le_cercle_des_17_-_t1",
 			"first_cover": "le_cercle_des_17_-_t1_1.jpg",
-			"fourth_cover": "le_cercle_des_17_-_t1_4.jpg"
+			"fourth_cover": "le_cercle_des_17_-_t1_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 31,
@@ -308,7 +338,8 @@
 			"title": "Le cercle des 17 - T2 - Dans les griffes de l'ennemi",
 			"title_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi",
 			"first_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_1.jpg",
-			"fourth_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_4.jpg"
+			"fourth_cover": "le_cercle_des_17_-_t2_-_dans_les_griffes_de_lennemi_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 32,
@@ -318,7 +349,8 @@
 			"title": "Le cercle des 17 - T3 - Bataille navale",
 			"title_cover": "le_cercle_des_17_-_t3_-_bataille_navale",
 			"first_cover": "le_cercle_des_17_-_t3_-_bataille_navale_1.jpg",
-			"fourth_cover": "le_cercle_des_17_-_t3_-_bataille_navale_4.jpg"
+			"fourth_cover": "le_cercle_des_17_-_t3_-_bataille_navale_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 33,
@@ -328,7 +360,8 @@
 			"title": "Le cercle des 17 - T4 - A la recherche de Jade Dragon",
 			"title_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon",
 			"first_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_1.jpg",
-			"fourth_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_4.jpg"
+			"fourth_cover": "le_cercle_des_17_-_t4_-_a_la_recherche_de_jade_dragon_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 34,
@@ -338,7 +371,8 @@
 			"title": "T1 - La 5ème vague",
 			"title_cover": "t1_-_la_5eme_vague",
 			"first_cover": "t1_-_la_5eme_vague_1.jpg",
-			"fourth_cover": "t1_-_la_5eme_vague_4.jpg"
+			"fourth_cover": "t1_-_la_5eme_vague_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 35,
@@ -348,7 +382,8 @@
 			"title": "T2 - La mer infinie",
 			"title_cover": "t2_-_la_mer_infinie",
 			"first_cover": "t2_-_la_mer_infinie_1.jpg",
-			"fourth_cover": "t2_-_la_mer_infinie_4.jpg"
+			"fourth_cover": "t2_-_la_mer_infinie_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 36,
@@ -358,7 +393,8 @@
 			"title": "T3 - La dernière étoile",
 			"title_cover": "t3_-_la_derniere_etoile",
 			"first_cover": "t3_-_la_derniere_etoile_1.jpg",
-			"fourth_cover": "t3_-_la_derniere_etoile_4.jpg"
+			"fourth_cover": "t3_-_la_derniere_etoile_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 37,
@@ -368,7 +404,8 @@
 			"title": "Le mystère de l'arche sacrée",
 			"title_cover": "le_mystere_de_larche_sacree",
 			"first_cover": "le_mystere_de_larche_sacree_1.jpg",
-			"fourth_cover": "le_mystere_de_larche_sacree_4.jpg"
+			"fourth_cover": "le_mystere_de_larche_sacree_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 38,
@@ -378,7 +415,8 @@
 			"title": "L'ile du diable",
 			"title_cover": "lile_du_diable",
 			"first_cover": "lile_du_diable_1.jpg",
-			"fourth_cover": "lile_du_diable_4.jpg"
+			"fourth_cover": "lile_du_diable_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 39,
@@ -388,7 +426,8 @@
 			"title": "Infection",
 			"title_cover": "infection",
 			"first_cover": "infection_1.jpg",
-			"fourth_cover": "infection_4.jpg"
+			"fourth_cover": "infection_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 40,
@@ -398,7 +437,8 @@
 			"title": "La loi du Dôme",
 			"title_cover": "la_loi_du_dome",
 			"first_cover": "la_loi_du_dome_1.jpg",
-			"fourth_cover": "la_loi_du_dome_4.jpg"
+			"fourth_cover": "la_loi_du_dome_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 41,
@@ -408,7 +448,8 @@
 			"title": "Ceux qui ne peuvent pas mourir - T1 - La bête de porte-vent",
 			"title_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent",
 			"first_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_1.jpg",
-			"fourth_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_4.jpg"
+			"fourth_cover": "ceux_qui_ne_peuvent_pas_mourir_-_t1_-_la_bete_de_porte-vent_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 42,
@@ -418,7 +459,8 @@
 			"title": "Le quatrième rassemblement",
 			"title_cover": "le_quatrieme_rassemblement",
 			"first_cover": "le_quatrieme_rassemblement_1.jpg",
-			"fourth_cover": "le_quatrieme_rassemblement_4.jpg"
+			"fourth_cover": "le_quatrieme_rassemblement_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 43,
@@ -428,7 +470,8 @@
 			"title": "Une simple vie",
 			"title_cover": "une_simple_vie",
 			"first_cover": "une_simple_vie_1.jpg",
-			"fourth_cover": "une_simple_vie_4.jpg"
+			"fourth_cover": "une_simple_vie_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 44,
@@ -438,7 +481,8 @@
 			"title": "Combattants sans passé - Legio Patria Nostra",
 			"title_cover": "combattants_sans_passe_-_legio_patria_nostra",
 			"first_cover": "combattants_sans_passe_-_legio_patria_nostra_1.jpg",
-			"fourth_cover": "combattants_sans_passe_-_legio_patria_nostra_4.jpg"
+			"fourth_cover": "combattants_sans_passe_-_legio_patria_nostra_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 45,
@@ -448,7 +492,8 @@
 			"title": "Le lien du mal",
 			"title_cover": "le_lien_du_mal",
 			"first_cover": "le_lien_du_mal_1.jpg",
-			"fourth_cover": "le_lien_du_mal_4.jpg"
+			"fourth_cover": "le_lien_du_mal_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 46,
@@ -458,7 +503,8 @@
 			"title": "Le premier sang",
 			"title_cover": "le_premier_sang",
 			"first_cover": "le_premier_sang_1.jpg",
-			"fourth_cover": "le_premier_sang_4.jpg"
+			"fourth_cover": "le_premier_sang_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 47,
@@ -468,7 +514,8 @@
 			"title": "Les visiteurs",
 			"title_cover": "les_visiteurs",
 			"first_cover": "les_visiteurs_1.jpg",
-			"fourth_cover": "les_visiteurs_4.jpg"
+			"fourth_cover": "les_visiteurs_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 48,
@@ -478,7 +525,8 @@
 			"title": "Mourir ne suffit pas",
 			"title_cover": "mourir_ne_suffit_pas",
 			"first_cover": "mourir_ne_suffit_pas_1.jpg",
-			"fourth_cover": "mourir_ne_suffit_pas_4.jpg"
+			"fourth_cover": "mourir_ne_suffit_pas_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 49,
@@ -488,7 +536,8 @@
 			"title": "Le jour des morts",
 			"title_cover": "le_jour_des_morts",
 			"first_cover": "le_jour_des_morts_1.jpg",
-			"fourth_cover": "le_jour_des_morts_4.jpg"
+			"fourth_cover": "le_jour_des_morts_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 50,
@@ -498,7 +547,8 @@
 			"title": "Sans pitié ni remords",
 			"title_cover": "sans_pitie_ni_remords",
 			"first_cover": "sans_pitie_ni_remords_1.jpg",
-			"fourth_cover": "sans_pitie_ni_remords_4.jpg"
+			"fourth_cover": "sans_pitie_ni_remords_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 51,
@@ -508,7 +558,8 @@
 			"title": "De cauchemar et de feu",
 			"title_cover": "de_cauchemar_et_de_feu",
 			"first_cover": "de_cauchemar_et_de_feu_1.jpg",
-			"fourth_cover": "de_cauchemar_et_de_feu_4.jpg"
+			"fourth_cover": "de_cauchemar_et_de_feu_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 52,
@@ -518,7 +569,8 @@
 			"title": "Dans la brume écarlate",
 			"title_cover": "dans_la_brume_ecarlate",
 			"first_cover": "dans_la_brume_ecarlate_1.jpg",
-			"fourth_cover": "dans_la_brume_ecarlate_4.jpg"
+			"fourth_cover": "dans_la_brume_ecarlate_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 53,
@@ -528,7 +580,8 @@
 			"title": "L'heure des fous",
 			"title_cover": "lheure_des_fous",
 			"first_cover": "lheure_des_fous_1.jpg",
-			"fourth_cover": "lheure_des_fous_4.jpg"
+			"fourth_cover": "lheure_des_fous_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 54,
@@ -538,7 +591,8 @@
 			"title": "Avec tes yeux",
 			"title_cover": "avec_tes_yeux",
 			"first_cover": "avec_tes_yeux_1.jpg",
-			"fourth_cover": "avec_tes_yeux_4.jpg"
+			"fourth_cover": "avec_tes_yeux_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 55,
@@ -548,7 +602,8 @@
 			"title": "Le jeu de l'ombre",
 			"title_cover": "le_jeu_de_lombre",
 			"first_cover": "le_jeu_de_lombre_1.jpg",
-			"fourth_cover": "le_jeu_de_lombre_4.jpg"
+			"fourth_cover": "le_jeu_de_lombre_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 56,
@@ -558,7 +613,8 @@
 			"title": "Dans les brumes du mal",
 			"title_cover": "dans_les_brumes_du_mal",
 			"first_cover": "dans_les_brumes_du_mal_1.jpg",
-			"fourth_cover": "dans_les_brumes_du_mal_4.jpg"
+			"fourth_cover": "dans_les_brumes_du_mal_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 57,
@@ -568,7 +624,8 @@
 			"title": "Serre moi fort",
 			"title_cover": "serre_moi_fort",
 			"first_cover": "serre_moi_fort_1.jpg",
-			"fourth_cover": "serre_moi_fort_4.jpg"
+			"fourth_cover": "serre_moi_fort_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 58,
@@ -578,7 +635,8 @@
 			"title": "Deux gouttes d'eau",
 			"title_cover": "deux_gouttes_deau",
 			"first_cover": "deux_gouttes_deau_1.jpg",
-			"fourth_cover": "deux_gouttes_deau_4.jpg"
+			"fourth_cover": "deux_gouttes_deau_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 59,
@@ -588,7 +646,8 @@
 			"title": "Heimaey",
 			"title_cover": "heimaey",
 			"first_cover": "heimaey_1.jpg",
-			"fourth_cover": "heimaey_4.jpg"
+			"fourth_cover": "heimaey_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 60,
@@ -598,7 +657,8 @@
 			"title": "Complot",
 			"title_cover": "complot",
 			"first_cover": "complot_1.jpg",
-			"fourth_cover": "complot_4.jpg"
+			"fourth_cover": "complot_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 61,
@@ -608,7 +668,8 @@
 			"title": "L'affaire Clara Miller",
 			"title_cover": "laffaire_clara_miller",
 			"first_cover": "laffaire_clara_miller_1.jpg",
-			"fourth_cover": "laffaire_clara_miller_4.jpg"
+			"fourth_cover": "laffaire_clara_miller_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 62,
@@ -618,7 +679,8 @@
 			"title": "Tout ce qui est sur terre doit périr",
 			"title_cover": "tout_ce_qui_est_sur_terre_doit_perir",
 			"first_cover": "tout_ce_qui_est_sur_terre_doit_perir_1.jpg",
-			"fourth_cover": "tout_ce_qui_est_sur_terre_doit_perir_4.jpg"
+			"fourth_cover": "tout_ce_qui_est_sur_terre_doit_perir_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 63,
@@ -628,7 +690,8 @@
 			"title": "L'empire des anges",
 			"title_cover": "lempire_des_anges",
 			"first_cover": "lempire_des_anges_1.jpg",
-			"fourth_cover": "lempire_des_anges_4.jpg"
+			"fourth_cover": "lempire_des_anges_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 64,
@@ -638,7 +701,8 @@
 			"title": "Chasseur de fantômes - Incroyable voyage au royaumes des ombres",
 			"title_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres",
 			"first_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_1.jpg",
-			"fourth_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_4.jpg"
+			"fourth_cover": "chasseur_de_fantomes_-_incroyable_voyage_au_royaumes_des_ombres_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 65,
@@ -648,7 +712,8 @@
 			"title": "Extinction",
 			"title_cover": "extinction",
 			"first_cover": "extinction_1.jpg",
-			"fourth_cover": "extinction_4.jpg"
+			"fourth_cover": "extinction_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 66,
@@ -658,7 +723,8 @@
 			"title": "Guerilla - T1 - Le jour où tout s'embrase",
 			"title_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase",
 			"first_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_1.jpg",
-			"fourth_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_4.jpg"
+			"fourth_cover": "guerilla_-_t1_-_le_jour_ou_tout_sembrase_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 67,
@@ -668,7 +734,8 @@
 			"title": "Silo - T1",
 			"title_cover": "silo_-_t1",
 			"first_cover": "silo_-_t1_1.jpg",
-			"fourth_cover": "silo_-_t1_4.jpg"
+			"fourth_cover": "silo_-_t1_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 68,
@@ -678,7 +745,8 @@
 			"title": "Silo - T2 - Origines",
 			"title_cover": "silo_-_t2_-_origines",
 			"first_cover": "silo_-_t2_-_origines_1.jpg",
-			"fourth_cover": "silo_-_t2_-_origines_4.jpg"
+			"fourth_cover": "silo_-_t2_-_origines_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 69,
@@ -688,7 +756,8 @@
 			"title": "Silo - T3 - Générations",
 			"title_cover": "silo_-_t3_-_generations",
 			"first_cover": "silo_-_t3_-_generations_1.jpg",
-			"fourth_cover": "silo_-_t3_-_generations_4.jpg"
+			"fourth_cover": "silo_-_t3_-_generations_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 70,
@@ -698,7 +767,8 @@
 			"title": "Disparu à jamais",
 			"title_cover": "disparu_a_jamais",
 			"first_cover": "disparu_a_jamais_1.jpg",
-			"fourth_cover": "disparu_a_jamais_4.jpg"
+			"fourth_cover": "disparu_a_jamais_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 71,
@@ -708,7 +778,8 @@
 			"title": "Ils ont vu l'au-delà - les aventuriers du Xxè siècle",
 			"title_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle",
 			"first_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_1.jpg",
-			"fourth_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_4.jpg"
+			"fourth_cover": "ils_ont_vu_lau-dela_-_les_aventuriers_du_xxe_siecle_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 72,
@@ -718,7 +789,8 @@
 			"title": "Ovni - Ils nous ont menti",
 			"title_cover": "ovni_-_ils_nous_ont_menti",
 			"first_cover": "ovni_-_ils_nous_ont_menti_1.jpg",
-			"fourth_cover": "ovni_-_ils_nous_ont_menti_4.jpg"
+			"fourth_cover": "ovni_-_ils_nous_ont_menti_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 73,
@@ -728,7 +800,8 @@
 			"title": "Les saisons du paradis",
 			"title_cover": "les_saisons_du_paradis",
 			"first_cover": "les_saisons_du_paradis_1.jpg",
-			"fourth_cover": "les_saisons_du_paradis_4.jpg"
+			"fourth_cover": "les_saisons_du_paradis_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 74,
@@ -738,7 +811,8 @@
 			"title": "Code 93",
 			"title_cover": "code_93",
 			"first_cover": "code_93_1.jpg",
-			"fourth_cover": "code_93_4.jpg"
+			"fourth_cover": "code_93_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 75,
@@ -748,7 +822,8 @@
 			"title": "Sur tensions",
 			"title_cover": "sur_tensions",
 			"first_cover": "sur_tensions_1.jpg",
-			"fourth_cover": "sur_tensions_4.jpg"
+			"fourth_cover": "sur_tensions_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 76,
@@ -758,7 +833,8 @@
 			"title": "Territoires",
 			"title_cover": "territoires",
 			"first_cover": "territoires_1.jpg",
-			"fourth_cover": "territoires_4.jpg"
+			"fourth_cover": "territoires_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 77,
@@ -768,7 +844,8 @@
 			"title": "Entre deux mondes",
 			"title_cover": "entre_deux_mondes",
 			"first_cover": "entre_deux_mondes_1.jpg",
-			"fourth_cover": "entre_deux_mondes_4.jpg"
+			"fourth_cover": "entre_deux_mondes_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 78,
@@ -778,7 +855,8 @@
 			"title": "La constance de predateur",
 			"title_cover": "la_constance_de_predateur",
 			"first_cover": "la_constance_de_predateur_1.jpg",
-			"fourth_cover": "la_constance_de_predateur_4.jpg"
+			"fourth_cover": "la_constance_de_predateur_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 79,
@@ -788,7 +866,8 @@
 			"title": "Génération fracassée",
 			"title_cover": "generation_fracassee",
 			"first_cover": "generation_fracassee_1.jpg",
-			"fourth_cover": "generation_fracassee_4.jpg"
+			"fourth_cover": "generation_fracassee_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 80,
@@ -798,7 +877,8 @@
 			"title": "Troisième humanité",
 			"title_cover": "troisieme_humanite",
 			"first_cover": "troisieme_humanite_1.jpg",
-			"fourth_cover": "troisieme_humanite_4.jpg"
+			"fourth_cover": "troisieme_humanite_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 81,
@@ -808,7 +888,8 @@
 			"title": "Sa majesté des chats",
 			"title_cover": "sa_majeste_des_chats",
 			"first_cover": "sa_majeste_des_chats_1.jpg",
-			"fourth_cover": "sa_majeste_des_chats_4.jpg"
+			"fourth_cover": "sa_majeste_des_chats_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 82,
@@ -818,7 +899,8 @@
 			"title": "La planète des chats",
 			"title_cover": "la_planete_des_chats",
 			"first_cover": "la_planete_des_chats_1.jpg",
-			"fourth_cover": "la_planete_des_chats_4.jpg"
+			"fourth_cover": "la_planete_des_chats_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 83,
@@ -828,7 +910,8 @@
 			"title": "Les tueurs diaboliques",
 			"title_cover": "les_tueurs_diaboliques",
 			"first_cover": "les_tueurs_diaboliques_1.jpg",
-			"fourth_cover": "les_tueurs_diaboliques_4.jpg"
+			"fourth_cover": "les_tueurs_diaboliques_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 84,
@@ -838,7 +921,8 @@
 			"title": "Demain les chats",
 			"title_cover": "demain_les_chats",
 			"first_cover": "demain_les_chats_1.jpg",
-			"fourth_cover": "demain_les_chats_4.jpg"
+			"fourth_cover": "demain_les_chats_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 85,
@@ -848,7 +932,8 @@
 			"title": "Toxique",
 			"title_cover": "toxique",
 			"first_cover": "toxique_1.jpg",
-			"fourth_cover": "toxique_4.jpg"
+			"fourth_cover": "toxique_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 86,
@@ -858,7 +943,8 @@
 			"title": "Azazel",
 			"title_cover": "azazel",
 			"first_cover": "azazel_1.jpg",
-			"fourth_cover": "azazel_4.jpg"
+			"fourth_cover": "azazel_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 87,
@@ -868,7 +954,8 @@
 			"title": "Post Mortem",
 			"title_cover": "post_mortem",
 			"first_cover": "post_mortem_1.jpg",
-			"fourth_cover": "post_mortem_4.jpg"
+			"fourth_cover": "post_mortem_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 88,
@@ -878,7 +965,8 @@
 			"title": "Pot-Bouille",
 			"title_cover": "pot-bouille",
 			"first_cover": "pot-bouille_1.jpg",
-			"fourth_cover": "pot-bouille_4.jpg"
+			"fourth_cover": "pot-bouille_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 89,
@@ -888,7 +976,8 @@
 			"title": "A l'ouest rien de nouveau",
 			"title_cover": "a_louest_rien_de_nouveau",
 			"first_cover": "a_louest_rien_de_nouveau_1.jpg",
-			"fourth_cover": "a_louest_rien_de_nouveau_4.jpg"
+			"fourth_cover": "a_louest_rien_de_nouveau_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 90,
@@ -898,7 +987,8 @@
 			"title": "Les raisins de la colère",
 			"title_cover": "les_raisins_de_la_colere",
 			"first_cover": "les_raisins_de_la_colere_1.jpg",
-			"fourth_cover": "les_raisins_de_la_colere_4.jpg"
+			"fourth_cover": "les_raisins_de_la_colere_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 91,
@@ -908,7 +998,8 @@
 			"title": "La coupure",
 			"title_cover": "la_coupure",
 			"first_cover": "la_coupure_1.jpg",
-			"fourth_cover": "la_coupure_4.jpg"
+			"fourth_cover": "la_coupure_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 92,
@@ -918,7 +1009,8 @@
 			"title": "Une enquête de Kay Scarpetta - Une peine d'exception",
 			"title_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception",
 			"first_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_1.jpg",
-			"fourth_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_4.jpg"
+			"fourth_cover": "une_enquete_de_kay_scarpetta_-_une_peine_dexception_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 93,
@@ -928,7 +1020,8 @@
 			"title": "Une enquête de Kay Scarpetta - Mémoires mortes",
 			"title_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes",
 			"first_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_1.jpg",
-			"fourth_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_4.jpg"
+			"fourth_cover": "une_enquete_de_kay_scarpetta_-_memoires_mortes_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 94,
@@ -938,7 +1031,8 @@
 			"title": "Une enquête de Kay Scarpetta - Sans raison",
 			"title_cover": "une_enquete_de_kay_scarpetta_-_sans_raison",
 			"first_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_1.jpg",
-			"fourth_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_4.jpg"
+			"fourth_cover": "une_enquete_de_kay_scarpetta_-_sans_raison_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 95,
@@ -948,7 +1042,8 @@
 			"title": "Dernier départ après l'éffondrement",
 			"title_cover": "dernier_depart_apres_leffondrement",
 			"first_cover": "dernier_depart_apres_leffondrement_1.jpg",
-			"fourth_cover": "dernier_depart_apres_leffondrement_4.jpg"
+			"fourth_cover": "dernier_depart_apres_leffondrement_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 96,
@@ -958,7 +1053,8 @@
 			"title": "Magonia",
 			"title_cover": "magonia",
 			"first_cover": "magonia_1.jpg",
-			"fourth_cover": "magonia_4.jpg"
+			"fourth_cover": "magonia_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 97,
@@ -968,7 +1064,8 @@
 			"title": "Fin des temps",
 			"title_cover": "fin_des_temps",
 			"first_cover": "fin_des_temps_1.jpg",
-			"fourth_cover": "fin_des_temps_4.jpg"
+			"fourth_cover": "fin_des_temps_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 98,
@@ -978,7 +1075,8 @@
 			"title": "Il était deux fois",
 			"title_cover": "il_etait_deux_fois",
 			"first_cover": "il_etait_deux_fois_1.jpg",
-			"fourth_cover": "il_etait_deux_fois_4.jpg"
+			"fourth_cover": "il_etait_deux_fois_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 99,
@@ -988,7 +1086,8 @@
 			"title": "Le mystère Fulcanelli",
 			"title_cover": "le_mystere_fulcanelli",
 			"first_cover": "le_mystere_fulcanelli_1.jpg",
-			"fourth_cover": "le_mystere_fulcanelli_4.jpg"
+			"fourth_cover": "le_mystere_fulcanelli_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 100,
@@ -998,7 +1097,8 @@
 			"title": "Taches rousses",
 			"title_cover": "taches_rousses",
 			"first_cover": "taches_rousses_1.jpg",
-			"fourth_cover": "taches_rousses_4.jpg"
+			"fourth_cover": "taches_rousses_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 101,
@@ -1008,7 +1108,8 @@
 			"title": "Le maitre des limbes",
 			"title_cover": "le_maitre_des_limbes",
 			"first_cover": "le_maitre_des_limbes_1.jpg",
-			"fourth_cover": "le_maitre_des_limbes_4.jpg"
+			"fourth_cover": "le_maitre_des_limbes_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 102,
@@ -1018,7 +1119,8 @@
 			"title": "La part des ténèbres",
 			"title_cover": "la_part_des_tenebres",
 			"first_cover": "la_part_des_tenebres_1.jpg",
-			"fourth_cover": "la_part_des_tenebres_4.jpg"
+			"fourth_cover": "la_part_des_tenebres_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 103,
@@ -1028,7 +1130,8 @@
 			"title": "L'institut",
 			"title_cover": "linstitut",
 			"first_cover": "linstitut_1.jpg",
-			"fourth_cover": "linstitut_4.jpg"
+			"fourth_cover": "linstitut_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 104,
@@ -1038,7 +1141,8 @@
 			"title": "Sleeping Beauties",
 			"title_cover": "sleeping_beauties",
 			"first_cover": "sleeping_beauties_1.jpg",
-			"fourth_cover": "sleeping_beauties_4.jpg"
+			"fourth_cover": "sleeping_beauties_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 105,
@@ -1048,7 +1152,8 @@
 			"title": "Germinal",
 			"title_cover": "germinal",
 			"first_cover": "germinal_1.jpg",
-			"fourth_cover": "germinal_4.jpg"
+			"fourth_cover": "germinal_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 106,
@@ -1058,7 +1163,8 @@
 			"title": "Au bonheur des dames",
 			"title_cover": "au_bonheur_des_dames",
 			"first_cover": "au_bonheur_des_dames_1.jpg",
-			"fourth_cover": "au_bonheur_des_dames_4.jpg"
+			"fourth_cover": "au_bonheur_des_dames_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 107,
@@ -1068,7 +1174,8 @@
 			"title": "Le parfun de la dame en noir",
 			"title_cover": "le_parfun_de_la_dame_en_noir",
 			"first_cover": "le_parfun_de_la_dame_en_noir_1.jpg",
-			"fourth_cover": "le_parfun_de_la_dame_en_noir_4.jpg"
+			"fourth_cover": "le_parfun_de_la_dame_en_noir_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 108,
@@ -1078,7 +1185,8 @@
 			"title": "Le mystère de la chambre jaune",
 			"title_cover": "le_mystere_de_la_chambre_jaune",
 			"first_cover": "le_mystere_de_la_chambre_jaune_1.jpg",
-			"fourth_cover": "le_mystere_de_la_chambre_jaune_4.jpg"
+			"fourth_cover": "le_mystere_de_la_chambre_jaune_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 109,
@@ -1088,7 +1196,8 @@
 			"title": "Debut les morts",
 			"title_cover": "debut_les_morts",
 			"first_cover": "debut_les_morts_1.jpg",
-			"fourth_cover": "debut_les_morts_4.jpg"
+			"fourth_cover": "debut_les_morts_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 110,
@@ -1098,7 +1207,8 @@
 			"title": "Le silence de la mer",
 			"title_cover": "le_silence_de_la_mer",
 			"first_cover": "le_silence_de_la_mer_1.jpg",
-			"fourth_cover": "le_silence_de_la_mer_4.jpg"
+			"fourth_cover": "le_silence_de_la_mer_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 111,
@@ -1108,7 +1218,8 @@
 			"title": "Deux petites filles en bleu",
 			"title_cover": "deux_petites_filles_en_bleu",
 			"first_cover": "deux_petites_filles_en_bleu_1.jpg",
-			"fourth_cover": "deux_petites_filles_en_bleu_4.jpg"
+			"fourth_cover": "deux_petites_filles_en_bleu_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 112,
@@ -1118,7 +1229,8 @@
 			"title": "Rien ne vaut la douceur du foyer",
 			"title_cover": "rien_ne_vaut_la_douceur_du_foyer",
 			"first_cover": "rien_ne_vaut_la_douceur_du_foyer_1.jpg",
-			"fourth_cover": "rien_ne_vaut_la_douceur_du_foyer_4.jpg"
+			"fourth_cover": "rien_ne_vaut_la_douceur_du_foyer_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 113,
@@ -1128,7 +1240,8 @@
 			"title": "Un jour tu verras...",
 			"title_cover": "un_jour_tu_verras",
 			"first_cover": "un_jour_tu_verras_1.jpg",
-			"fourth_cover": "un_jour_tu_verras_4.jpg"
+			"fourth_cover": "un_jour_tu_verras_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 114,
@@ -1138,7 +1251,8 @@
 			"title": "Je t'ai donné mon cœur",
 			"title_cover": "je_tai_donne_mon_cœur",
 			"first_cover": "je_tai_donne_mon_cœur_1.jpg",
-			"fourth_cover": "je_tai_donne_mon_cœur_4.jpg"
+			"fourth_cover": "je_tai_donne_mon_cœur_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 115,
@@ -1148,7 +1262,8 @@
 			"title": "La reine du bal",
 			"title_cover": "la_reine_du_bal",
 			"first_cover": "la_reine_du_bal_1.jpg",
-			"fourth_cover": "la_reine_du_bal_4.jpg"
+			"fourth_cover": "la_reine_du_bal_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 116,
@@ -1158,7 +1273,8 @@
 			"title": "La femme de l'ombre",
 			"title_cover": "la_femme_de_lombre",
 			"first_cover": "la_femme_de_lombre_1.jpg",
-			"fourth_cover": "la_femme_de_lombre_4.jpg"
+			"fourth_cover": "la_femme_de_lombre_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 117,
@@ -1168,7 +1284,8 @@
 			"title": "Assassin's Creed",
 			"title_cover": "assassins_creed",
 			"first_cover": "assassins_creed_1.jpg",
-			"fourth_cover": "assassins_creed_4.jpg"
+			"fourth_cover": "assassins_creed_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 118,
@@ -1178,7 +1295,8 @@
 			"title": "Les nettoyeurs",
 			"title_cover": "les_nettoyeurs",
 			"first_cover": "les_nettoyeurs_1.jpg",
-			"fourth_cover": "les_nettoyeurs_4.jpg"
+			"fourth_cover": "les_nettoyeurs_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 119,
@@ -1188,7 +1306,8 @@
 			"title": "Après l'effondrement - L'intégrale",
 			"title_cover": "apres_leffondrement_-_lintegrale",
 			"first_cover": "apres_leffondrement_-_lintegrale_1.jpg",
-			"fourth_cover": "apres_leffondrement_-_lintegrale_4.jpg"
+			"fourth_cover": "apres_leffondrement_-_lintegrale_4.jpg",
+			"visible": true
 		},
 		{
 			"id": 120,
@@ -1198,248 +1317,410 @@
 			"title": "Menace primale - L'éxode - Livre I",
 			"title_cover": "menace_primale_-_lexode_-_livre_i",
 			"first_cover": "menace_primale_-_lexode_-_livre_i_1.jpg",
-			"fourth_cover": "menace_primale_-_lexode_-_livre_i_4.jpg"
+			"fourth_cover": "menace_primale_-_lexode_-_livre_i_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 121,
+			"main_author": "ANTOINE RENAND",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "L'empathie",
+			"title_cover": "lempathie",
+			"first_cover": "lempathie_1.jpg",
+			"fourth_cover": "lempathie_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 122,
+			"main_author": "JEROME LOUBRY",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Les refuges",
+			"title_cover": "les_refuges",
+			"first_cover": "les_refuges_1.jpg",
+			"fourth_cover": "les_refuges_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 123,
+			"main_author": "AMELIE ANTOINE",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Les silences",
+			"title_cover": "les_silences",
+			"first_cover": "les_silences_1.jpg",
+			"fourth_cover": "les_silences_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 124,
+			"main_author": "NICOLAS DRUART",
+			"secondary_author": "",
+			"editor": "Harper Collins - POCHE",
+			"title": "Jeu de dames",
+			"title_cover": "jeu_de_dames",
+			"first_cover": "jeu_de_dames_1.jpg",
+			"fourth_cover": "jeu_de_dames_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 125,
+			"main_author": "GIACOMETTI RAVENNE",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Le triomphe des ténèbres",
+			"title_cover": "le_triomphe_des_tenebres",
+			"first_cover": "le_triomphe_des_tenebres_1.jpg",
+			"fourth_cover": "le_triomphe_des_tenebres_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 126,
+			"main_author": "R.J. ELLORY",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Les enonymes",
+			"title_cover": "les_enonymes",
+			"first_cover": "les_enonymes_1.jpg",
+			"fourth_cover": "les_enonymes_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 127,
+			"main_author": "BERNARD MINIER",
+			"secondary_author": "",
+			"editor": "Pocket",
+			"title": "La chasse",
+			"title_cover": "la_chasse",
+			"first_cover": "la_chasse_1.jpg",
+			"fourth_cover": "la_chasse_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 128,
+			"main_author": "MARLENE CHARINE",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Léonie",
+			"title_cover": "leonie",
+			"first_cover": "leonie_1.jpg",
+			"fourth_cover": "leonie_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 129,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "La capture",
+			"title_cover": "la_capture",
+			"first_cover": "la_capture_1.jpg",
+			"fourth_cover": "la_capture_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 130,
+			"main_author": "NICOLAS LEBEL",
+			"secondary_author": "",
+			"editor": "Le livre de poche",
+			"title": "Le gibier",
+			"title_cover": "le_gibier",
+			"first_cover": "le_gibier_1.jpg",
+			"fourth_cover": "le_gibier_4.jpg",
+			"visible": true
+		},
+		{
+			"id": 131,
+			"main_author": "BERNARD MINIER",
+			"secondary_author": "",
+			"editor": "Xo éditions",
+			"title": "Territoires du mystère",
+			"title_cover": "territoires_du_mystere",
+			"first_cover": "territoires_du_mystere_1.jpg",
+			"fourth_cover": "territoires_du_mystere_4.jpg",
+			"visible": false
 		}
 	],
 	"auteurs": [
+		{
+			"id": "0",
+			"author": "TOUT"
+		},
 		{
 			"id": "1",
 			"author": "ALAFAIR BURKE"
 		},
 		{
 			"id": "2",
-			"author": "ANTHONY AUGUSTO"
+			"author": "AMELIE ANTOINE"
 		},
 		{
 			"id": "3",
-			"author": "BERNARD WERBER"
+			"author": "ANTHONY AUGUSTO"
 		},
 		{
 			"id": "4",
-			"author": "CEDRIC SIRE"
+			"author": "ANTOINE RENAND"
 		},
 		{
 			"id": "5",
-			"author": "CHRISTOPHE MARTINOLLI"
+			"author": "BERNARD MINIER"
 		},
 		{
 			"id": "6",
-			"author": "CLAIRE FAVAN"
+			"author": "BERNARD WERBER"
 		},
 		{
 			"id": "7",
-			"author": "CYRIL CARRERE"
+			"author": "CEDRIC SIRE"
 		},
 		{
 			"id": "8",
-			"author": "DANIELLE THIERY"
+			"author": "CHRISTOPHE MARTINOLLI"
 		},
 		{
 			"id": "9",
-			"author": "ERICH MARIA REMARQUE"
+			"author": "CLAIRE FAVAN"
 		},
 		{
 			"id": "10",
-			"author": "FIONA BARTON"
+			"author": "CYRIL CARRERE"
 		},
 		{
 			"id": "11",
-			"author": "FRANCK THILLIEZ"
+			"author": "DANIELLE THIERY"
 		},
 		{
 			"id": "12",
-			"author": "FRED VARGAS"
+			"author": "ERICH MARIA REMARQUE"
 		},
 		{
 			"id": "13",
-			"author": "GUY ROGER DUVERT"
+			"author": "FIONA BARTON"
 		},
 		{
 			"id": "14",
-			"author": "HARLAN COBEN"
+			"author": "FRANCK THILLIEZ"
 		},
 		{
 			"id": "15",
-			"author": "HENRI LOEVENBRUCK"
+			"author": "FRED VARGAS"
 		},
 		{
 			"id": "16",
-			"author": "HUGH HOWEY"
+			"author": "GIACOMETTI RAVENNE"
 		},
 		{
 			"id": "17",
-			"author": "IAN MANOOL"
+			"author": "GUY ROGER DUVERT"
 		},
 		{
 			"id": "18",
-			"author": "ISAAC ASIMOV"
+			"author": "HARLAN COBEN"
 		},
 		{
 			"id": "19",
-			"author": "JACQUES EXPERT"
+			"author": "HENRI LOEVENBRUCK"
 		},
 		{
 			"id": "20",
-			"author": "JAMES DASHNER"
+			"author": "HUGH HOWEY"
 		},
 		{
 			"id": "21",
-			"author": "JEAN-FRANCOIS NAHMIAS"
+			"author": "IAN MANOOL"
 		},
 		{
 			"id": "22",
-			"author": "JEAN-LUC BIZIEN"
+			"author": "ISAAC ASIMOV"
 		},
 		{
 			"id": "23",
-			"author": "JEAN-MARC EPINOUX"
+			"author": "JACQUES EXPERT"
 		},
 		{
 			"id": "24",
-			"author": "JOANN ROSS"
+			"author": "JAMES DASHNER"
 		},
 		{
 			"id": "25",
-			"author": "JULIEN CENTAURE"
+			"author": "JEAN-FRANCOIS NAHMIAS"
 		},
 		{
 			"id": "26",
-			"author": "KARINE MARTINS"
+			"author": "JEAN-LUC BIZIEN"
 		},
 		{
 			"id": "27",
-			"author": "LAURENT OBERTONE"
+			"author": "JEAN-MARC EPINOUX"
 		},
 		{
 			"id": "28",
-			"author": "M.A. ROTHMAN"
+			"author": "JEROME LOUBRY"
 		},
 		{
 			"id": "29",
-			"author": "MARC WELINKSI"
+			"author": "JOANN ROSS"
 		},
 		{
 			"id": "30",
-			"author": "MARTIN"
+			"author": "JULIEN CENTAURE"
 		},
 		{
 			"id": "31",
-			"author": "MARY HIGGINS CLARK"
+			"author": "KARINE MARTINS"
 		},
 		{
 			"id": "32",
-			"author": "MAXIME CHATTAN"
+			"author": "LAURENT OBERTONE"
 		},
 		{
 			"id": "33",
-			"author": "MAXIME LLEDO"
+			"author": "M.A. ROTHMAN"
 		},
 		{
 			"id": "34",
-			"author": "MICHAEL BYRNES"
+			"author": "MARC WELINKSI"
 		},
 		{
 			"id": "35",
-			"author": "MICHEL BUSSI"
+			"author": "MARLENE CHARINE"
 		},
 		{
 			"id": "36",
-			"author": "MORGANE MONTORIOL"
+			"author": "MARTIN"
 		},
 		{
 			"id": "37",
-			"author": "NICO AUGUSTO"
+			"author": "MARY HIGGINS CLARK"
 		},
 		{
 			"id": "38",
-			"author": "NICOLAS BEUGLET"
+			"author": "MAXIME CHATTAN"
 		},
 		{
 			"id": "39",
-			"author": "NICOLAS LEBEL"
+			"author": "MAXIME LLEDO"
 		},
 		{
 			"id": "40",
-			"author": "NIKO TACKIAM"
+			"author": "MICHAEL BYRNES"
 		},
 		{
 			"id": "41",
-			"author": "OLIVIER BAL"
+			"author": "MICHEL BUSSI"
 		},
 		{
 			"id": "42",
-			"author": "OLIVIER BOWDEN"
+			"author": "MORGANE MONTORIOL"
 		},
 		{
 			"id": "43",
-			"author": "OLIVIER NOREK"
+			"author": "NICO AUGUSTO"
 		},
 		{
 			"id": "44",
-			"author": "OWEN KING"
+			"author": "NICOLAS BEUGLET"
 		},
 		{
 			"id": "45",
-			"author": "PATRICIA CORNWELL"
+			"author": "NICOLAS DRUART"
 		},
 		{
 			"id": "46",
-			"author": "PIERRE BELLEMARE"
+			"author": "NICOLAS LEBEL"
 		},
 		{
 			"id": "47",
-			"author": "RACHEL LEE"
+			"author": "NIKO TACKIAM"
 		},
 		{
 			"id": "48",
-			"author": "RENE MANZOR"
+			"author": "OLIVIER BAL"
 		},
 		{
 			"id": "49",
-			"author": "RICHARD PAUL EVANS"
+			"author": "OLIVIER BOWDEN"
 		},
 		{
 			"id": "50",
-			"author": "RICK YANCEY"
+			"author": "OLIVIER NOREK"
 		},
 		{
 			"id": "51",
-			"author": "ROBERT MARKUS"
+			"author": "OWEN KING"
 		},
 		{
 			"id": "52",
-			"author": "ROULETABILLE"
+			"author": "PATRICIA CORNWELL"
 		},
 		{
 			"id": "53",
-			"author": "SARAH CROSSAN"
+			"author": "PIERRE BELLEMARE"
 		},
 		{
 			"id": "54",
-			"author": "SCOT SIGLER"
+			"author": "R.J. ELLORY"
 		},
 		{
 			"id": "55",
-			"author": "STEINBECK"
+			"author": "RACHEL LEE"
 		},
 		{
 			"id": "56",
-			"author": "STEPHEN KING"
+			"author": "RENE MANZOR"
 		},
 		{
 			"id": "57",
-			"author": "VERCORS"
+			"author": "RICHARD PAUL EVANS"
 		},
 		{
 			"id": "58",
-			"author": "WILLIAM R. FORSTCHEN"
+			"author": "RICK YANCEY"
 		},
 		{
 			"id": "59",
+			"author": "ROBERT MARKUS"
+		},
+		{
+			"id": "60",
+			"author": "ROULETABILLE"
+		},
+		{
+			"id": "61",
+			"author": "SARAH CROSSAN"
+		},
+		{
+			"id": "62",
+			"author": "SCOT SIGLER"
+		},
+		{
+			"id": "63",
+			"author": "STEINBECK"
+		},
+		{
+			"id": "64",
+			"author": "STEPHEN KING"
+		},
+		{
+			"id": "65",
+			"author": "VERCORS"
+		},
+		{
+			"id": "66",
+			"author": "WILLIAM R. FORSTCHEN"
+		},
+		{
+			"id": "67",
 			"author": "ZOLA"
 		}
 	],
 	"editeurs": [
+		{
+			"id": "0",
+			"editor": "Tout"
+		},
 		{
 			"id": "1",
 			"editor": "Albin Michel"
@@ -1502,62 +1783,66 @@
 		},
 		{
 			"id": "16",
-			"editor": "Ixelles éditions"
+			"editor": "Harper Collins - POCHE"
 		},
 		{
 			"id": "17",
-			"editor": "J'ai Lu"
+			"editor": "Ixelles éditions"
 		},
 		{
 			"id": "18",
-			"editor": "Label Naos"
+			"editor": "J'ai Lu"
 		},
 		{
 			"id": "19",
-			"editor": "Le livre de poche"
+			"editor": "Label Naos"
 		},
 		{
 			"id": "20",
-			"editor": "Magnus"
+			"editor": "Le livre de poche"
 		},
 		{
 			"id": "21",
-			"editor": "Magonia Consortium"
+			"editor": "Magnus"
 		},
 		{
 			"id": "22",
-			"editor": "Marabout"
+			"editor": "Magonia Consortium"
 		},
 		{
 			"id": "23",
-			"editor": "Milady"
+			"editor": "Marabout"
 		},
 		{
 			"id": "24",
-			"editor": "PKJ"
+			"editor": "Milady"
 		},
 		{
 			"id": "25",
-			"editor": "Pocket"
+			"editor": "PKJ"
 		},
 		{
 			"id": "26",
-			"editor": "Primordial Press"
+			"editor": "Pocket"
 		},
 		{
 			"id": "27",
-			"editor": "Robert Laffont"
+			"editor": "Primordial Press"
 		},
 		{
 			"id": "28",
-			"editor": "Robert Markus"
+			"editor": "Robert Laffont"
 		},
 		{
 			"id": "29",
-			"editor": "Société nouvelle Firmin-didot"
+			"editor": "Robert Markus"
 		},
 		{
 			"id": "30",
+			"editor": "Société nouvelle Firmin-didot"
+		},
+		{
+			"id": "31",
 			"editor": "Xo éditions"
 		}
 	]

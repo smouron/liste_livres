@@ -9,138 +9,154 @@
     <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     <title>Liste des livres que je possède</title>
 
+    <link rel="stylesheet" href="style.css">
 
     <!-- <script src="jquery.js"></script> -->
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"
         integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- Récupération sur Fontawesome des icones dont on aura besoin -->
+    <script src="https://kit.fontawesome.com/57bf6f7049.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
-    <header id="header" class="site-header directionRow">
-        <div id="container_header" class="container_header directionRow">
+    <header id="header" class="site-header flexrow">
+        <div id="container_header" class="container_header flexrow">
             <div id="logo" class="logo">
                 <a href="./index.php">
-                    <img src="./assets/images/stephane_mouron.png" alt="Logo Stéphane Mouron">
+                    <img src="./images/stephane_mouron.png" alt="Logo Stéphane Mouron">
                 </a>
             </div>
+            <form class="filter filter_research" method="post">
+                <label for="research" class="button_research"><i class="fa-solid fa-magnifying-glass"></i></label>
+                <input type="text" placeholder="Auteur" name="research" id="research">
+            </form>
         </div>
     </header>
 
     <main>
-        <h1>Liste des livres que je possède</h1>
-        <nav role="navigation" class="filter-area flexrow wrap center" aria-label="Filtrer l'affichage des livres">
-            <!--				
+        <section>
+            <h1>Liste des livres que je possède dans ma bibliothèque</h1>
+            <nav class="filter-area flexrow wrap center" aria-label="Filtrer l'affichage des livres">
+                <!--				
              Menu déroulant avec la liste des auteurs
          -->
-            <form action="" class="filter filter_author">
-                <label for="select_author">Auteur</label>
-                <select size="1" name="select_author" id="select_author">
-                    <option value="tout" selected>Tout</option>
-                    <option value="alafair burke">ALAFAIR BURKE</option>
-                    <option value="anthony augusto">ANTHONY AUGUSTO</option>
-                    <option value="bernard werber">BERNARD WERBER</option>
-                    <option value="cedric sire">CEDRIC SIRE</option>
-                    <option value="christophe martinolli">CHRISTOPHE MARTINOLLI</option>
-                    <option value="claire favan">CLAIRE FAVAN</option>
-                    <option value="cyril carrere">CYRIL CARRERE</option>
-                    <option value="danielle thiery">DANIELLE THIERY</option>
-                    <option value="erich maria remarque">ERICH MARIA REMARQUE</option>
-                    <option value="fiona barton">FIONA BARTON</option>
-                    <option value="franck thilliez">FRANCK THILLIEZ</option>
-                    <option value="fred vargas">FRED VARGAS</option>
-                    <option value="guy roger duvert">GUY ROGER DUVERT</option>
-                    <option value="harlan coben">HARLAN COBEN</option>
-                    <option value="henri loevenbruck">HENRI LOEVENBRUCK</option>
-                    <option value="hugh howey">HUGH HOWEY</option>
-                    <option value="ian manool">IAN MANOOL</option>
-                    <option value="isaac asimov">ISAAC ASIMOV</option>
-                    <option value="jacques expert">JACQUES EXPERT</option>
-                    <option value="james dashner">JAMES DASHNER</option>
-                    <option value="jean-francois nahmias">JEAN-FRANCOIS NAHMIAS</option>
-                    <option value="jean-luc bizien">JEAN-LUC BIZIEN</option>
-                    <option value="jean-marc epinoux">JEAN-MARC EPINOUX</option>
-                    <option value="joann ross">JOANN ROSS</option>
-                    <option value="julien centaure">JULIEN CENTAURE</option>
-                    <option value="karine martins">KARINE MARTINS</option>
-                    <option value="laurent obertone">LAURENT OBERTONE</option>
-                    <option value="m.a. rothman">M.A. ROTHMAN</option>
-                    <option value="marc welinksi">MARC WELINKSI</option>
-                    <option value="martin">MARTIN</option>
-                    <option value="mary higgins clark">MARY HIGGINS CLARK</option>
-                    <option value="maxime chattan">MAXIME CHATTAN</option>
-                    <option value="maxime lledo">MAXIME LLEDO</option>
-                    <option value="michael byrnes">MICHAEL BYRNES</option>
-                    <option value="michel bussi">MICHEL BUSSI</option>
-                    <option value="morgane montoriol">MORGANE MONTORIOL</option>
-                    <option value="nico augusto">NICO AUGUSTO</option>
-                    <option value="nicolas beuglet">NICOLAS BEUGLET</option>
-                    <option value="nicolas lebel">NICOLAS LEBEL</option>
-                    <option value="niko tackiam">NIKO TACKIAM</option>
-                    <option value="olivier bal">OLIVIER BAL</option>
-                    <option value="olivier bowden">OLIVIER BOWDEN</option>
-                    <option value="olivier norek">OLIVIER NOREK</option>
-                    <option value="owen king">OWEN KING</option>
-                    <option value="patricia cornwell">PATRICIA CORNWELL</option>
-                    <option value="pierre bellemare">PIERRE BELLEMARE</option>
-                    <option value="rachel lee">RACHEL LEE</option>
-                    <option value="rene manzor">RENE MANZOR</option>
-                    <option value="richard paul evans">RICHARD PAUL EVANS</option>
-                    <option value="rick yancey">RICK YANCEY</option>
-                    <option value="robert markus">ROBERT MARKUS</option>
-                    <option value="rouletabille">ROULETABILLE</option>
-                    <option value="sarah crossan">SARAH CROSSAN</option>
-                    <option value="scot sigler">SCOT SIGLER</option>
-                    <option value="steinbeck">STEINBECK</option>
-                    <option value="stephen king">STEPHEN KING</option>
-                    <option value="vercors">VERCORS</option>
-                    <option value="william r. forstchen">WILLIAM R. FORSTCHEN</option>
-                    <option value="zola">ZOLA</option>
-                </select>
-            </form>
-            <!--                                         
+                <form class="filter filter_author" method="post">
+                    <label for="select_author">Auteur</label>
+                    <select size="1" name="select_author" id="select_author">
+                        <option value="tout" selected>Tout</option>
+                        <option value="alafair burke">ALAFAIR BURKE</option>
+                        <option value="amelie antoine">AMELIE ANTOINE</option>
+                        <option value="anthony augusto">ANTHONY AUGUSTO</option>
+                        <option value="antoine renand">ANTOINE RENAND</option>
+                        <option value="bernard minier">BERNARD MINIER</option>
+                        <option value="bernard werber">BERNARD WERBER</option>
+                        <option value="cedric sire">CEDRIC SIRE</option>
+                        <option value="christophe martinolli">CHRISTOPHE MARTINOLLI</option>
+                        <option value="claire favan">CLAIRE FAVAN</option>
+                        <option value="cyril carrere">CYRIL CARRERE</option>
+                        <option value="danielle thiery">DANIELLE THIERY</option>
+                        <option value="erich maria remarque">ERICH MARIA REMARQUE</option>
+                        <option value="fiona barton">FIONA BARTON</option>
+                        <option value="franck thilliez">FRANCK THILLIEZ</option>
+                        <option value="fred vargas">FRED VARGAS</option>
+                        <option value="giacometti ravenne">GIACOMETTI RAVENNE</option>
+                        <option value="guy roger duvert">GUY ROGER DUVERT</option>
+                        <option value="harlan coben">HARLAN COBEN</option>
+                        <option value="henri loevenbruck">HENRI LOEVENBRUCK</option>
+                        <option value="hugh howey">HUGH HOWEY</option>
+                        <option value="ian manool">IAN MANOOL</option>
+                        <option value="isaac asimov">ISAAC ASIMOV</option>
+                        <option value="jacques expert">JACQUES EXPERT</option>
+                        <option value="james dashner">JAMES DASHNER</option>
+                        <option value="jean-francois nahmias">JEAN-FRANCOIS NAHMIAS</option>
+                        <option value="jean-luc bizien">JEAN-LUC BIZIEN</option>
+                        <option value="jean-marc epinoux">JEAN-MARC EPINOUX</option>
+                        <option value="jerome loubry">JEROME LOUBRY</option>
+                        <option value="joann ross">JOANN ROSS</option>
+                        <option value="julien centaure">JULIEN CENTAURE</option>
+                        <option value="karine martins">KARINE MARTINS</option>
+                        <option value="laurent obertone">LAURENT OBERTONE</option>
+                        <option value="m.a. rothman">M.A. ROTHMAN</option>
+                        <option value="marc welinksi">MARC WELINKSI</option>
+                        <option value="marlene charine">MARLENE CHARINE</option>
+                        <option value="martin">MARTIN</option>
+                        <option value="mary higgins clark">MARY HIGGINS CLARK</option>
+                        <option value="maxime chattan">MAXIME CHATTAN</option>
+                        <option value="maxime lledo">MAXIME LLEDO</option>
+                        <option value="michael byrnes">MICHAEL BYRNES</option>
+                        <option value="michel bussi">MICHEL BUSSI</option>
+                        <option value="morgane montoriol">MORGANE MONTORIOL</option>
+                        <option value="nico augusto">NICO AUGUSTO</option>
+                        <option value="nicolas beuglet">NICOLAS BEUGLET</option>
+                        <option value="nicolas druart">NICOLAS DRUART</option>
+                        <option value="nicolas lebel">NICOLAS LEBEL</option>
+                        <option value="niko tackiam">NIKO TACKIAM</option>
+                        <option value="olivier bal">OLIVIER BAL</option>
+                        <option value="olivier bowden">OLIVIER BOWDEN</option>
+                        <option value="olivier norek">OLIVIER NOREK</option>
+                        <option value="owen king">OWEN KING</option>
+                        <option value="patricia cornwell">PATRICIA CORNWELL</option>
+                        <option value="pierre bellemare">PIERRE BELLEMARE</option>
+                        <option value="r.j. ellory">R.J. ELLORY</option>
+                        <option value="rachel lee">RACHEL LEE</option>
+                        <option value="rene manzor">RENE MANZOR</option>
+                        <option value="richard paul evans">RICHARD PAUL EVANS</option>
+                        <option value="rick yancey">RICK YANCEY</option>
+                        <option value="robert markus">ROBERT MARKUS</option>
+                        <option value="rouletabille">ROULETABILLE</option>
+                        <option value="sarah crossan">SARAH CROSSAN</option>
+                        <option value="scot sigler">SCOT SIGLER</option>
+                        <option value="steinbeck">STEINBECK</option>
+                        <option value="stephen king">STEPHEN KING</option>
+                        <option value="vercors">VERCORS</option>
+                        <option value="william r. forstchen">WILLIAM R. FORSTCHEN</option>
+                        <option value="zola">ZOLA</option>
+                    </select>
+                </form>
+                <!--                                         
                  Menu déroulant avec la liste des éditeurs
             -->
-            <form action="" class="filter filter_editor">
-                <label for="select_editor">Editeur</label>
-                <select size="1" name="select_editor" id="select_editor">
-                    <option value="tout" selected>Tout</option>
-                    <option value="albin michel">ALBIN MICHEL</option>
-                    <option value="amazon">AMAZON</option>
-                    <option value="anne carrière">ANNE CARRIÈRE</option>
-                    <option value="bayard">BAYARD</option>
-                    <option value="blossom">BLOSSOM</option>
-                    <option value="collection tremplin">COLLECTION TREMPLIN</option>
-                    <option value="comos polis">COMOS POLIS</option>
-                    <option value="dystopie">DYSTOPIE</option>
-                    <option value="editions de l'opportun">EDITIONS DE L'OPPORTUN</option>
-                    <option value="editions harlequin">EDITIONS HARLEQUIN</option>
-                    <option value="fayard">FAYARD</option>
-                    <option value="fleuve noir">FLEUVE NOIR</option>
-                    <option value="folio">FOLIO</option>
-                    <option value="france loisirs">FRANCE LOISIRS</option>
-                    <option value="gallimard jeunesse">GALLIMARD JEUNESSE</option>
-                    <option value="ixelles éditions">IXELLES ÉDITIONS</option>
-                    <option value="j'ai lu">J'AI LU</option>
-                    <option value="label naos">LABEL NAOS</option>
-                    <option value="le livre de poche">LE LIVRE DE POCHE</option>
-                    <option value="magnus">MAGNUS</option>
-                    <option value="magonia consortium">MAGONIA CONSORTIUM</option>
-                    <option value="marabout">MARABOUT</option>
-                    <option value="milady">MILADY</option>
-                    <option value="pkj">PKJ</option>
-                    <option value="pocket">POCKET</option>
-                    <option value="primordial press">PRIMORDIAL PRESS</option>
-                    <option value="robert laffont">ROBERT LAFFONT</option>
-                    <option value="robert markus">ROBERT MARKUS</option>
-                    <option value="société nouvelle firmin-didot">SOCIÉTÉ NOUVELLE FIRMIN-DIDOT</option>
-                    <option value="xo éditions">XO ÉDITIONS</option>
-                </select>
-            </form>
-        </nav>
-        <p class="nbBook center">Nombre de livres : <span class="nbBookTop">0</span></p>
-        <section>
+                <form class="filter filter_editor" method="post">
+                    <label for="select_editor">Editeur</label>
+                    <select size="1" name="select_editor" id="select_editor">
+                        <option value="tout" selected>Tout</option>
+                        <option value="albin michel">ALBIN MICHEL</option>
+                        <option value="amazon">AMAZON</option>
+                        <option value="anne carrière">ANNE CARRIÈRE</option>
+                        <option value="bayard">BAYARD</option>
+                        <option value="blossom">BLOSSOM</option>
+                        <option value="collection tremplin">COLLECTION TREMPLIN</option>
+                        <option value="comos polis">COMOS POLIS</option>
+                        <option value="dystopie">DYSTOPIE</option>
+                        <option value="editions de l'opportun">EDITIONS DE L'OPPORTUN</option>
+                        <option value="editions harlequin">EDITIONS HARLEQUIN</option>
+                        <option value="fayard">FAYARD</option>
+                        <option value="fleuve noir">FLEUVE NOIR</option>
+                        <option value="folio">FOLIO</option>
+                        <option value="france loisirs">FRANCE LOISIRS</option>
+                        <option value="gallimard jeunesse">GALLIMARD JEUNESSE</option>
+                        <option value="harper collins - poche">HARPER COLLINS - POCHE</option>
+                        <option value="ixelles éditions">IXELLES ÉDITIONS</option>
+                        <option value="j'ai lu">J'AI LU</option>
+                        <option value="label naos">LABEL NAOS</option>
+                        <option value="le livre de poche">LE LIVRE DE POCHE</option>
+                        <option value="magnus">MAGNUS</option>
+                        <option value="magonia consortium">MAGONIA CONSORTIUM</option>
+                        <option value="marabout">MARABOUT</option>
+                        <option value="milady">MILADY</option>
+                        <option value="pkj">PKJ</option>
+                        <option value="pocket">POCKET</option>
+                        <option value="primordial press">PRIMORDIAL PRESS</option>
+                        <option value="robert laffont">ROBERT LAFFONT</option>
+                        <option value="robert markus">ROBERT MARKUS</option>
+                        <option value="société nouvelle firmin-didot">SOCIÉTÉ NOUVELLE FIRMIN-DIDOT</option>
+                        <option value="xo éditions">XO ÉDITIONS</option>
+                    </select>
+                </form>
+            </nav>
+            <p class="nbBook center">Nombre de livres : <span class="nbBookTop">0</span></p>
             <div id="list" class="flexrow wrap center"></div>
         </section>
 
@@ -149,16 +165,15 @@
     </main>
 
     <!-- footer.php -->
-    <footer>
+    <footer class="center">
         <p>
-            <strong>Copyright ©</strong>2023
-            <a href="https://portfolio.stephane-mouron.fr/" target="_blank" rel="noopener"><em> Stéphane Mouron
-                </em></a>
-            - Tous droits réservés
+            <a href="https://portfolio.stephane-mouron.fr/" target="_blank" rel="noopener"> Stéphane Mouron
+            </a>
         </p>
+        <p class="flexrow"><strong>Copyright ©2023 </strong> - Tous droits réservés</p>
     </footer>
+    <script src="scripts.js"></script>
 </body>
 
-<script type="text/javascript" src="./assets/js/scripts.js"></script>
 
 </html>
