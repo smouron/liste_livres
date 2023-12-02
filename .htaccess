@@ -1,0 +1,43 @@
+
+# Désactiver l'affichage du contenu des répertoires
+# IndexIgnore *
+# ou 
+# Options All -Indexes
+IndexIgnore *
+
+# Masquer les informations du serveur
+ServerSignature Off
+
+# Activation du suivi des liens symboliques
+Options +FollowSymLinks
+
+# Encodage par défaut des fichiers textes et HTML
+AddDefaultCharset UTF-8
+
+# Bannir une adresse IP
+<Limit GET POST>
+order allow,deny
+# deny from xxx.xxx.xxx.xxx
+allow from all
+</Limit>
+
+
+# Redirection d'une page quelconque
+# Redirect 301 /anciennepage/ http://www.monsite.com/nouvellepage
+
+# Redirection d'une nouvelle catégorie (avec renommage de category en categorie)
+# Redirect 301 /category/technologie/ http://www.monsite.com/categorie/techno/
+
+# Protection contre les injections de fichiers
+RewriteCond %{REQUEST_METHOD} GET
+RewriteCond %{QUERY_STRING} [a-zA-Z0-9_]=http:// [OR]
+RewriteCond %{QUERY_STRING} [a-zA-Z0-9_]=(\.\.//?)+ [OR]
+RewriteCond %{QUERY_STRING} [a-zA-Z0-9_]=/([a-z0-9_.]//?)+ [NC]
+RewriteRule .* - [F]
+
+# Protections diverses (XSS, clickjacking et MIME-Type sniffing)
+<ifModule mod_headers.c>
+Header set X-XSS-Protection "1; mode=block"
+Header always append X-Frame-Options SAMEORIGIN
+Header set X-Content-Type-Options: "nosniff”
+</ifModule>
